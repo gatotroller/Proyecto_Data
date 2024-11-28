@@ -1,0 +1,6042 @@
+id@skills
+1@WebLogic
+1@configuration
+1@MySQL
+1@installation
+1@Oracle DBA
+1@troubleshooting
+1@Oracle RAC
+2@MS Office
+2@Data entry
+3@hive
+3@apache
+3@itil process
+3@hadoop
+3@big data
+3@aws
+3@core java
+4@Unix
+4@data science
+4@SQL
+4@Linux
+4@SAS
+4@HTML
+4@Perl
+4@SDLC
+4@Android
+4@Python
+5@Reporting
+5@Data Analysis
+5@Business Analytics
+5@Data Analytics
+5@kpo
+6@back office processing
+6@BPO
+6@part time
+6@data entry
+6@computer operator
+6@backend
+6@non voice
+6@chat process
+6@account
+6@marketing
+6@inbound process
+7@SQL
+7@NoSQL
+7@R
+7@Python
+7@Scala
+7@Data Visualization
+7@Machine Learning
+7@Data Science
+7@Data Modeling
+7@Algorithm
+8@Java
+8@SOA
+8@TDD
+8@SaaS
+8@J2EE
+8@Spring Boot
+8@API
+8@Algorithm
+8@Data Structure
+9@Technical Management
+9@Agile Methodology
+9@Unit Testing
+9@Design Development
+9@Business Analytics
+9@Big Data
+9@SQL Queries
+9@Spark
+9@Performance Tuning
+9@Test Case Design
+10@Help Desk
+10@Customer Service
+10@customer relationship
+10@access controls
+10@Asset Management
+10@Vendor Management
+11@Service level
+11@operational support
+11@Financial reporting
+11@project support
+11@Helpdesk
+11@Issue resolution
+11@Risk management
+11@Operations
+11@Project life cycle
+11@Downstream
+12@data entry
+12@data entry operators
+12@computer operator
+12@office assistant
+12@back office
+12@clerical work
+12@cts
+12@banking
+12@fresher
+12@B.com
+13@SSIS
+13@SSRS
+13@Technical Training
+13@Data Management
+13@SQL
+13@software development
+14@Unix
+14@Maven
+14@Automation
+14@Linux
+14@Data modeling
+14@Infrastructure management
+14@Agile
+14@Application development
+14@Apache
+14@Information technology
+15@data entry operation
+15@organization skills
+15@us healthcare
+15@Data Entry
+15@ms office
+15@typing speed
+16@Financial reporting
+16@Analytical
+16@Market intelligence
+16@Accountancy
+16@Data research
+16@Finance
+16@Internet searching
+16@Credit risk
+16@MS Office
+17@Linux
+17@Python
+17@Coding
+17@Open source
+17@Machine learning
+17@big data
+17@Basic
+17@spark
+17@hdfs
+17@SCALA
+18@development
+18@junit
+18@java
+18@apache
+18@jboss
+18@tomcat
+18@product development
+18@mysql
+18@eclipse
+19@Data Analysis
+19@Data Analyst
+19@reporting
+19@Quality Control
+20@Data Entry Operation
+20@Computer Operating
+20@Data Management
+20@data analysis
+20@Data Entry
+20@computer operator
+20@back office
+20@non voice
+20@backend
+20@kpo
+21@Java
+21@Open Source
+21@Scala
+21@Big Data
+21@Spark
+21@Performance Tuning
+21@Python
+22@Python
+22@Machine learning
+22@Forecasting
+22@Text mining
+22@Neural networks
+22@Natural language processing
+22@text analytics
+22@Logistic regression
+22@advanced analytics
+22@deep learning
+23@SAS
+23@MIS
+23@Financial services
+23@Automation
+23@Analytical
+23@Cognos
+23@Business strategy
+23@Information management
+23@Information technology
+23@Data extraction
+24@Interfaces
+24@idocs
+24@sap mm
+24@problem solving
+25@spark
+25@sql
+25@big data
+25@unix
+25@data visualization
+25@tableau
+25@hadoop
+25@python
+25@hive
+26@IT services
+26@Automation
+26@data governance
+26@Team Leader
+26@Financial services
+27@Monitoring
+27@Social networking
+27@Data research
+28@Data Entry
+28@Computer Operating
+28@Calling
+28@customer care
+28@customer support
+28@customer service
+28@customer service executive
+28@customer support executive
+28@Domestic BPO
+28@call center executive
+28@customer care executive
+28@customer care officer
+28@customer support officer
+29@Python
+29@Business intelligence
+29@Coding
+29@Computer science
+29@Machine learning
+29@Hbase
+29@MongoDb
+29@NoSQL
+29@Cassandra
+29@Operations
+30@Analytics
+30@Monitoring
+30@SQL
+30@Computer science
+30@Process automation
+30@Automation
+30@Assurance
+30@Analytical
+30@Predictive modeling
+30@Business solutions
+31@database development
+31@MySQL Db
+31@mysql database
+31@Stored Procedures
+31@triggers
+31@functions
+32@Java
+32@Hadoop
+32@Python
+32@C++
+32@Spark
+32@Machine Learning
+32@NoSQL
+32@Oozie
+32@Big Data
+32@Languages
+33@SQL
+33@Configuration management
+33@Disaster recovery
+33@Data architecture
+33@TOGAF
+33@Business continuity
+33@HBase
+33@PAAS
+33@Architecture
+33@Archiving
+34@production support
+34@build automation
+34@dba
+34@performance tuning
+34@sybase iq
+34@redhat linux
+34@perl
+34@database administration
+34@unix
+35@Tableau
+35@SAS
+35@R
+35@Python
+35@Spark
+35@Machine Learning
+35@RDBMS
+35@SQL
+35@Hadoop
+35@Startup
+35@Big Data
+36@SQL
+36@Application support
+36@Incident management
+36@Service management
+36@Operations
+36@Informatica
+36@Support services
+36@Teradata
+36@Service level
+36@Back office support
+37@Computer science
+37@Data analysis
+37@Analytical
+37@Machine learning
+37@Tools
+37@Data mining
+37@MATLAB
+37@Monitoring
+37@Analytics
+37@Python
+38@international bpo
+38@cce
+38@calling
+38@backend
+38@technical support
+38@data entry
+38@computer operator
+38@Field Executive
+38@Chat Process
+38@Email Support
+38@Fresher
+39@MDM
+39@Metadata
+39@Master Data Management
+39@Edw
+39@Data Governance
+40@Oracle DBA
+40@DBA
+40@Production Support
+40@Technical Consultant
+40@Oracle RAC
+41@statistical modeling
+41@data analytics
+41@data visualization
+41@fraud analytics
+41@business intelligence
+41@communication skills
+41@excel
+41@advanced excel
+42@Network Administration
+42@Datacenter
+42@WLAN
+42@Project Management
+42@OSPF
+42@BGP
+42@MPLS
+42@EIGRP
+42@FCOE
+42@LACP
+43@BPO
+43@Calling
+43@Data Entry
+43@bpo fresher
+43@data entry operator
+43@dataentry operator
+43@Call Center
+43@International BPO
+44@datapower
+44@ibm datapower
+44@ibm websphere
+45@DBA
+45@RDBMS
+45@Windows Server
+45@Data Modeling
+45@DBMS
+45@Performance Tuning
+45@SQL
+45@Performance Monitoring
+46@Power Bi
+46@Data Modeling
+46@Database Development
+46@SQL
+47@Networking
+47@MIS
+47@Information security
+47@SIEM
+47@Database
+47@Data analytics
+47@big data
+47@IPS
+47@Security monitoring
+48@Data Architect
+48@Data Management
+48@Big Data
+48@Data Visualization
+48@Data Warehousing
+48@Data Analytics
+48@Machine Learning
+48@Analytics
+48@SQL
+49@bpo
+49@freelancing
+49@freelance writing
+49@data mining
+49@data processing
+49@notepad
+49@administration work
+49@kpo
+49@part time
+49@data entry operation
+49@excel
+49@data extraction
+49@typing
+49@content writing
+49@non voice
+49@data entry
+50@oracle
+50@sql server
+50@development
+50@mca
+50@performance testing
+50@mercury
+50@database testing
+50@testing databases
+50@middleware testing
+51@sales management
+51@online sales
+51@sales
+51@auto parts
+51@accessories
+51@Warehouse Operations
+51@Data Entry
+51@Sales Lead Generation
+52@Unix
+52@Hibernate
+52@Installation
+52@Linux
+52@RDBMS
+52@Billing
+52@MySQL
+52@Operations
+52@Tuning
+52@Technical documentation
+53@ETL
+53@Modeler
+53@Test Case Design
+53@Datastage
+53@Data Modeling
+53@Performance Tuning
+53@Unit Testing
+53@Design Development
+53@Business Process
+53@Application Development
+54@investment research
+54@equity research
+54@financial research
+54@mba finance
+54@investment banking
+54@venture capital
+54@private equity
+54@cfa
+54@data analyst
+54@financial analyst
+55@Data Scientist
+56@Sales
+56@Field Sales
+56@data collections
+56@Data Collection
+56@Courier
+57@hive
+57@python
+57@java
+57@mapreduce
+57@spark
+57@cassandra
+57@mysql
+57@big data
+57@hbase
+57@pig
+58@Informatica
+58@Cognos
+58@Datastage
+58@PLSQL
+58@Data structures
+58@Workflow
+58@Data modeling
+58@RDBMS
+58@Stored procedures
+58@Data migration
+59@Integration
+59@UI
+59@Application Integration
+59@Data Modeling
+59@Guidewire
+60@BPO
+60@Cce
+60@Calling
+60@Inbound
+60@Data Entry
+60@fresher
+60@voice process
+60@chat
+60@Back Office
+60@Domestic BPO
+60@backend
+60@Call Center
+60@International BPO
+61@c++
+61@C
+61@design
+61@MySQL
+61@JavaScript
+61@HTML
+62@freelancing
+62@data entry operation
+63@Data Science
+63@Java
+63@NoSQL
+63@Python
+63@Spark
+63@Artificial Intelligence
+63@Machine Learning
+63@Hadoop
+63@SCALA
+63@R
+64@Project management
+64@Analytics
+64@Recruitment
+64@Data analysis
+64@Data management
+64@Business research
+64@Consulting
+64@RFP
+64@Macros
+64@Client management
+65@sql server
+65@database design
+65@hive
+65@finance
+65@project management
+65@development testing
+65@project manager
+65@Database
+66@English
+66@Data Entry
+66@Computer Operating
+66@Back Office
+66@Selection Process
+66@Domestic BPO
+66@bpo call center
+66@bpo fresher
+67@Shell Scripting
+67@Data Warehousing
+67@Teradata
+67@ETL
+67@Analytics
+67@SQL
+67@Python
+68@data entry operation
+68@health insurance
+69@Datastage
+69@Datastage Developer
+70@Applications
+70@Customer Relations
+70@IP
+70@Tools
+70@DNS
+70@Data Center
+70@IT Service Delivery
+70@DHCP
+70@data - centre
+70@Team
+70@IT operations
+70@deployment
+71@SQL Server Administration
+71@SQL Database
+71@MS SQL Server
+72@Performance tuning
+72@Service
+72@Consulting
+72@Trend analysis
+72@English language
+72@Customer satisfaction
+72@Oracle admin
+72@Effort estimation
+72@Lead Administrator
+72@Database Administrator
+73@Telecom
+73@IP Telephony
+73@Storage
+73@CCIE
+73@Communication Protocols
+73@Cloud
+73@Cisco
+73@Datacenter
+73@IT Service Delivery
+73@System Integration
+74@Unit testing
+74@Monitoring
+74@Computer science
+74@Software configuration management
+74@Performance management
+74@Service level
+74@Data analytics
+74@Architecture
+74@Resource planning
+74@software architecture
+75@Manager Quality Control
+75@Data entry
+76@Query Optimization
+76@Database Administration
+76@Transition Management
+76@Cassandra
+76@SQL Server
+76@Performance Tuning
+76@Optimization
+76@Oracle RDBMS
+76@PLSQL
+76@Data Modeling
+76@Data Warehousing
+76@Data Architecture
+76@OLTP
+77@Data Entry Operation
+77@Typing
+77@Offline
+77@Data Entry
+78@Data Entry
+78@typing
+78@computer operator
+78@back office
+79@Enterprise Architecture
+79@High Availability
+79@Data Management
+79@BI
+79@OLAP
+79@SQL
+79@Data Model
+79@DATA BASE
+79@Data Analysis
+79@Physical Design
+79@Data Modeling
+79@ETL
+79@ERWIN
+80@C
+80@Python
+80@Six Sigma
+80@PMP
+80@.NET
+80@HTML
+80@JavaScript
+80@SQL
+80@Oracle
+80@assembly language
+80@Real Time Operating Systems
+81@Word
+81@Typing
+81@freshers
+81@part time
+81@data entry
+82@BPO
+82@Domestic BPO
+82@International BPO
+82@Call Center
+82@voice process
+82@Non Voice Process
+82@Back Office
+82@backend
+82@Data Entry Operator
+82@Inbound Process
+82@Marketing
+82@Technical Support
+82@customer support
+83@Analyst
+83@Product enhancement
+83@Customer experience
+83@e - Commerce
+83@conversion
+84@Team Management
+84@Data Enrichment
+84@SAP
+84@Data Migrations
+84@Data Cleansing
+84@Data quality
+84@Master Data
+84@Data Profiling
+84@hana
+84@Data Governance
+85@Data management
+85@RDBMS
+85@SSRS
+85@OLAP
+85@Application development
+85@SSIS
+85@Troubleshooting
+85@Information technology
+85@Technical support
+85@SQL
+86@annotation
+86@communication skills
+86@fresher
+86@data services
+86@transcriber
+86@Cbse
+86@ICSE
+87@Power Bi
+87@SQL
+87@Data Integration
+87@Data Reporting
+87@People Development
+87@Management Services
+87@Leadership Hiring
+87@Maintenance Activities
+87@Continuous Improvement
+87@Client Satisfaction
+88@Data entry
+89@High Availability
+89@MS SQL
+89@R12
+89@Database Administration
+89@Linux
+89@RAC
+89@EBS
+89@Oracle Apps Dba
+89@11I
+89@Golden Gate
+90@SuccessFactors
+90@OData
+90@SAP Implementation
+90@Functional Consultant
+91@etl
+91@data modeling
+91@data visualization
+91@data warehousing
+91@dw
+91@data analytics
+91@sas
+91@data reporting
+91@data analysis
+91@cloud
+91@Bi
+91@Big Data
+92@functional testing
+92@process integration
+92@business understanding
+92@stakeholder management
+92@process improvement initiatives
+92@version control
+92@business development
+92@strategy
+92@performance management
+93@Data Analytics
+93@Big Data
+94@C++
+94@Multithreading
+94@Linux
+94@Data Structures
+94@SQLite
+94@Memory Management
+94@Algorithm
+94@Data Structure
+95@itm
+95@performance tuning
+95@data warehousing
+95@tivoli
+95@netcool omnibus
+95@middleware
+96@Python
+96@Six Sigma
+96@.NET
+96@HTML
+96@JavaScript
+96@SQL
+96@Oracle
+96@assembly language
+96@Real Time Operating Systems
+97@Java
+97@HADOOP
+97@Scala
+97@SPARK
+98@Networking
+98@Windows Server
+98@ITIL Certified
+98@Backup Management
+98@Data Center
+98@End User
+98@Computer Operating
+99@Com
+99@Tally ERP
+99@MS Office
+99@Business Executive
+99@Data Entry Operator
+100@data entry operation
+100@back office
+100@domestic bpo
+100@data entry
+100@computer operator
+100@chat process
+100@bpo
+100@freshers
+100@voice process
+100@inbound process
+100@accounts
+100@digital marketing
+100@bpo freshers
+100@International Call Center
+100@International BPO
+100@Technical Support
+101@Customer Service
+101@Help Desk
+101@Information
+101@Telephony support
+101@customer relationship
+101@access controls
+101@Vendor Management
+101@Asset Management
+102@computer operating
+102@part time
+102@offline
+102@typing
+102@data entry
+102@Data Entry Executive
+103@Java
+103@C++
+103@Software Development
+103@Algorithms
+103@Languages
+103@Machine Learning
+103@Python
+104@SQL
+104@Excel
+104@QC
+104@QA
+104@Database Development
+104@Data Validation
+104@Process Improvement
+105@Linux
+105@Python
+105@Agile
+105@Configuration management
+105@HTTP
+105@JIRA
+105@Japanese
+105@SMTP
+105@Version control
+105@SCALA
+106@Adobe
+106@Data mining
+106@Executive
+106@SQL queries
+106@big data
+106@Data Analyst
+106@Analyst II
+106@tableau
+106@Hadoop
+107@Product training
+107@Basic
+107@data integrity
+107@Data entry
+108@Hive
+108@Elastic search
+108@big data
+108@Hbase
+108@Apache Spark
+109@bpo
+109@Inbound Process
+109@Email Support
+109@Computer Operator
+109@back office
+109@back office executive
+109@call center
+109@Data Entry Operator
+109@Marketing
+109@Chat Process
+109@Backend
+109@voice process
+109@Domestic BPO
+109@Fresher
+109@data entry
+110@Automation
+110@GIT
+110@SAS
+110@Db2
+110@Configuration management
+110@Analytical
+110@Data processing
+110@Open source
+110@JIRA
+110@Operations
+111@data entry operation
+111@bpo
+111@computer operator
+111@back office
+111@back office operations
+111@office assistant
+111@back office executive
+111@typing
+111@data entry
+111@banking
+112@web technologies
+112@data entry
+112@CRM
+112@Data Analysis
+112@data mining
+113@Java
+113@spark
+113@scala
+113@azure
+113@Big Data
+114@Java
+114@NoSQL
+114@Neo4J
+114@SCALA
+114@Big Data
+114@Spark
+114@HBase
+114@Python
+115@Data Science
+115@Deep Learning
+115@R
+115@Python
+115@Statistics
+115@SAS
+116@Teradata
+116@DBA
+116@Database Administration
+117@Project Management
+117@Stakeholder Management
+117@Team Leading Skills
+117@Global Delivery
+117@Service Delivery
+117@Client Management
+117@Continuous Improvement
+117@Operations
+117@International Clients
+117@People Development
+118@SQL
+118@HIVE
+118@Python
+118@R
+118@Shell
+118@Shell.
+119@Performance tuning
+119@Service
+119@Consulting
+119@Trend analysis
+119@English language
+119@Customer satisfaction
+119@Oracle admin
+119@Effort estimation
+119@Lead Administrator
+119@Database Administrator
+120@Database Architect
+120@Com
+120@Rational rose
+120@Support
+120@large
+120@Data modeling
+120@Reverse engineering
+120@Distribution
+120@Tool design
+120@Architecting
+121@Usage
+121@GIT
+121@Business transformation
+121@Linux
+121@Machine learning
+121@Agile
+121@Cost
+121@AWS
+121@SQL
+121@Python
+122@Life Sciences
+122@data analysis
+122@Data Management
+122@Advanced Excel
+122@Master Data
+123@Hive
+123@Sqoop
+123@Hadoop
+123@Big Data
+124@technical support
+124@data modeling
+124@product life cycle
+124@presentation skills
+124@analytical skills
+124@sql server
+124@problem resolution
+124@SQL Developer
+124@sql database
+125@Com
+125@advertising agency
+125@Typing speed
+125@Back office
+125@MS Office
+125@Ad agency
+125@Advertising
+125@Application
+125@Data entry
+125@Data Entry Operator
+126@Receptionist
+126@Administration
+126@Front Office
+126@Front Desk
+126@Travel Arrangements
+126@Computer Operating
+127@Embedded System
+127@C++
+127@C
+127@OOAD
+127@RTOS
+127@Linux
+127@Kernel
+127@Device Driver
+127@VLAN
+127@GPON
+127@TCP
+127@IP
+128@C++
+128@SQL
+128@Linux
+128@Performance tuning
+128@server
+128@development
+128@technical
+128@software
+128@virtualization
+128@Windows
+128@tools
+128@quality
+128@cloud
+128@MS SQL
+128@database
+128@application
+128@Information security
+128@MySQL
+128@design
+128@Application development
+128@support
+128@Python
+129@Linux
+129@Perl
+129@Automation
+129@Python
+129@SAN
+129@Open source
+129@Ruby
+129@Analytics
+129@Data management
+129@Computer science
+130@Java
+130@Sqoop
+130@Cloudera
+130@Hadoop
+130@SCALA
+130@Big Data
+130@Flume
+130@Spark
+130@Python
+131@teradata developer
+131@Teradata
+131@Teradata DBA
+132@SAS
+132@Hadoop
+132@R
+132@Hive
+132@SQL
+132@Machine Learning
+132@Time Series
+132@Big Data Analytics
+132@Predictive Modeling
+132@Statistics
+133@international bpo
+133@Back Office Processing
+133@Front Office
+133@Computer Operating
+133@Calling
+133@business development
+133@Digital Marketing
+133@Non Voice
+133@Data Entry
+133@sales
+133@Marketing
+133@online marketing
+133@voice process
+133@receptionist
+133@Mba Fresher
+133@Call Center
+134@Root cause analysis
+134@metadata
+134@Data management
+134@query
+134@Data structures
+134@Management
+134@big data
+134@Data warehousing
+134@Analytics
+134@SQL
+135@data warehouse
+135@Tableau
+135@ETL
+135@SQL
+136@MIS
+136@Consulting
+136@Back office
+136@Supply chain
+136@IT services
+136@Automation
+136@Information security
+136@Data quality
+136@IT operations
+136@Information technology
+137@Six Sigma
+137@.NET
+137@Python
+137@assembly language
+137@JavaScript
+137@HTML
+137@developer
+137@Oracle
+137@email
+137@SQL
+138@Data Services
+138@Application Development
+138@Performance Testing
+138@Business Process
+138@Business Objects
+138@Data Migration
+139@Unix
+139@Supply chain
+139@Service management
+139@FTP
+139@Shell scripting
+139@Problem management
+139@EDI
+139@Troubleshooting
+139@Unix shell scripting
+139@Python
+140@typist
+140@data entry operator
+140@computer operator
+141@hive
+141@java
+141@spark
+141@scala
+141@hadoop
+141@data architecture
+141@big data
+141@communication skills
+142@Troubleshooting
+142@SQL
+142@Coding
+142@Computer science
+142@PDF
+142@Data migration
+142@Ruby
+142@Pentaho
+142@continuous integration
+142@Programming
+143@data science
+143@Project planning
+143@Analytics
+143@Operations research
+143@Publishing
+143@Analytical
+143@Machine learning
+143@HTML
+143@Mining operations
+143@Data mining
+144@Data Security
+144@Security Operations
+144@CISCO
+144@Cisco Wireless
+145@c#
+145@algorithms
+145@collection
+145@sql
+145@linq
+145@winforms
+145@Multithreading
+145@msmq
+145@.net
+145@data structures
+145@object oriented programming
+145@c#.net
+145@azure
+146@Word
+146@Typing
+146@freshers
+146@part time
+146@data entry
+147@Back Office Processing
+147@BPO
+147@Data Entry
+147@Call Center
+147@Cce
+147@Calling
+147@Domestic
+147@customer care
+147@inbound
+147@executive
+147@customer service
+147@customer support
+147@kpo
+147@voice process
+147@fresher
+147@domestic bpo
+147@international bpo
+147@customer care executive
+148@Data management
+148@Design review
+148@EDC
+148@Process improvement
+148@Healthcare
+148@QIP
+148@Continuous improvement
+148@Analytics
+148@IMS
+149@Performance tuning
+149@MS SQL
+149@Postgresql
+149@Database administration
+149@Agile
+149@Windows
+149@Oracle
+149@Troubleshooting
+149@SDLC
+149@Monitoring
+150@data mining
+150@mapping
+150@business intelligence
+150@Data modeling
+150@Statistical analysis
+150@machine learning
+150@Python
+150@R
+150@MATLAB
+151@Computer science
+151@Postgresql
+151@MySQL
+151@Test planning
+151@Performance optimization
+151@Customer service
+151@Dms
+151@professional services
+151@Troubleshooting
+151@PGSQL
+152@MS SQL
+152@Data modeling
+152@SSRS
+152@Agile
+152@Database
+152@Visual Studio
+152@SSIS
+152@Business Executive
+153@Computer hardware
+153@Networking
+153@MS Office
+153@Hardware networking
+153@IT support
+153@Hardware
+153@HR
+153@it
+153@microsoft
+154@International BPO
+154@Call Center
+154@Non Voice Process
+154@Customer Care
+154@Calling
+154@Domestic
+154@inbound
+154@voice process
+154@international call center
+154@BPO
+154@KPO
+154@LPO
+154@Domestic BPO
+155@Associate Manager / Manager Data Scientist
+156@Change management
+156@Data management
+156@Wealth management
+156@Business analysis
+156@Project management
+156@operational risk management
+156@Asset management
+156@Financial services
+156@Auditing
+156@Business operations
+157@BPO
+157@Hiring
+157@LPO
+157@call center
+157@KPO
+157@Data Entry
+157@bpo call center
+157@Communication Skills
+157@Backend
+157@bpo fresher
+157@Bpo Voice
+157@chat
+157@Domestic
+157@Domestic BPO
+157@bpo executive
+157@international call center
+157@International BPO
+158@Customer Service
+158@Help Desk
+158@Information
+158@Telephony support
+158@customer relationship
+158@access controls
+158@Vendor Management
+158@Asset Management
+159@bpo
+159@Inbound Process
+159@Customer Service
+159@Incentives
+159@International Call Center
+159@cce
+159@inbound
+159@Computer Operating
+159@Calling
+159@Voice Process
+159@Non Voice
+159@Data Entry
+159@Customer Care Executive
+159@Back Office
+159@Telecalling
+159@Customer Care
+159@Domestic BPO
+159@Chat
+160@Google Analytics
+160@RDBMS
+160@Analytical
+160@Network security
+160@Data Analyst
+160@HTTP
+160@System software
+160@Data warehousing
+160@SQL
+160@Python
+161@Japanese
+161@Business process
+161@Pharma
+161@Aerospace
+161@German
+161@French
+161@Spanish
+161@Computer vision
+161@Customer experience
+161@Compliance
+162@Db2
+162@IMS
+162@Module
+162@Project delivery
+162@Entry level
+162@Lead Administrator
+162@Language skills
+162@Application
+162@Manager Technology
+163@data center
+163@mcse
+163@ccna
+163@oem
+163@pmp trained
+163@UNIX
+163@Linux
+163@Servers
+163@Network
+163@Storage
+163@Backup
+164@data network
+164@data networks
+164@nexus
+164@wan
+164@cisco nexus
+164@lan
+164@cisco
+165@Data Science
+165@SAS SQL
+165@Secondary Research
+165@Excel Powerpoint
+165@Artificial Intelligence
+165@Research Analysis
+165@Advanced Analytics
+165@Data Analysis
+165@Team Leading
+165@People Management
+165@Primary Research
+165@Python
+166@SSIS
+166@SSRS
+166@SQL Server
+166@Power Bi
+166@Data Modeling
+166@Data Warehousing
+166@Oracle
+166@DW
+166@Tableau
+166@QlikView
+167@java
+167@hadoop
+167@hive
+167@j2ee
+167@spring boot
+167@mockito
+167@hbase
+167@pig
+167@junit
+167@microservices
+167@sql
+167@Git
+167@Jenkins
+168@cisco
+168@IMS
+168@RCA
+168@Trend analysis
+168@Subject matter expertise
+168@Hardware troubleshooting
+168@Customer satisfaction
+168@Senior Administrator
+168@Effort estimation
+168@Training
+169@Business process
+169@Data migration
+169@SAP
+169@Networking
+169@Master data management
+169@Manager Technology
+169@Outsourcing
+169@Oracle
+169@Operations
+170@Pharma
+170@Book Keeping
+170@Auditing
+171@Data Scientist
+172@SQL
+172@Senior
+172@Oracle
+172@Performance tuning
+172@server
+172@development
+172@SAP
+172@development testing
+172@Database design
+172@testing
+172@Indesign
+172@database
+172@design
+172@Design development
+172@developer
+172@Indexing
+172@architecture
+173@hive
+173@sqoop
+173@mapreduce
+173@hadoop
+173@pig
+173@big data
+173@hbase
+173@spark
+174@Data Analysis
+174@Data Mining
+174@Analytics
+174@Advanced Excel
+175@Performance tuning
+175@Service
+175@Consulting
+175@Oracle RAC
+175@Trend analysis
+175@English language
+175@Customer satisfaction
+175@Vmware Administrator
+175@Effort estimation
+175@Lead Administrator
+176@Administrator
+176@Network
+176@LAN
+176@WAN
+176@Windows
+176@Servers
+176@SQL
+177@Networking
+177@Oracle
+177@Troubleshooting
+177@Performance tuning
+177@Network administration
+177@FTP
+177@Release management
+177@RMAN
+177@Monitoring
+177@Auditing
+178@Jenkins
+178@Java
+178@Hadoop
+178@Javascript
+178@JSON
+178@Bash
+178@Spark
+178@Groovy
+178@Play Framework
+178@Python
+179@NLP
+179@SAS
+179@Data Management
+179@Data Analytics
+179@Statistics
+179@Machine Learning
+179@Analytics
+179@Business Analysis
+179@Predictive Analytics
+180@High Availability
+180@Windows Server
+180@Disaster Recovery
+180@Restore
+180@Active Directory
+180@MySQL Database Administration
+180@MS SQL
+180@NoSQL
+180@MySQL
+180@HA
+180@MongoDB
+180@AWS
+181@Unix
+181@Load testing
+181@Software development life cycle
+181@Scrum
+181@Selenium
+181@Test cases
+181@software quality
+181@Teradata
+181@Continuous improvement
+181@big data
+182@Python
+182@Machine Learning
+183@nlp
+183@data science
+184@Data Validation
+184@Data Management
+184@Data Analysis
+185@advanced analytics
+185@r
+185@python
+185@data analysis
+185@neural networks
+185@machine learning
+186@Data validation
+186@Excel
+186@MIS
+186@MS Word
+186@Recruitment
+186@Data Entry Executive
+187@Java
+187@Maven
+187@Hibernate
+187@Design Patterns
+187@J2Ee
+187@JEE
+187@JMS
+187@Rest
+187@Algorithms
+187@Spring Framework
+187@JPA
+188@new projects
+188@operations management
+188@mis preparation
+188@data analysis
+188@mis reporting
+188@formulas
+188@pivot table
+188@vlookup
+188@warehouse
+188@excel powerpoint
+188@vba
+188@mis
+188@supply chain management
+188@database analyst
+188@bpo operations
+189@Unix
+189@Linux
+189@Datastage
+189@Oracle database
+189@Data warehousing
+189@Oracle SQL
+190@MongoDB
+190@Unix
+190@Linux
+190@MySQL
+190@Informatica
+190@UML
+190@Datastage
+190@Python
+190@Data structures
+190@Data modeling
+191@C#
+191@Ajax
+191@Visual Studio
+191@Web Services
+191@.Net
+191@MS SQL
+191@Stored Procedures
+191@Html5
+191@Web Technologies
+191@SQL Database
+191@.Net Developer
+192@Predictive Modeling
+192@Big Data Analytics
+192@Hadoop
+192@Spark
+192@Predictive Analytics
+193@activemq
+193@GIT
+193@Analytical
+193@MySQL
+193@Data structures
+193@MongoDB
+193@Analytics
+193@SQL
+193@Python
+193@Technical documentation
+194@Python
+194@Six Sigma
+194@PMP
+194@.NET
+194@HTML
+194@JavaScript
+194@SQL
+194@Oracle
+194@assembly language
+194@Real Time Operating Systems
+195@SQL
+195@Java
+195@Python
+195@R
+195@Software Development
+195@VBA
+195@Advanced Excel
+195@Data Analytics
+195@C#
+195@Predictive Modeling
+196@Ubuntu
+196@Linux
+196@Docker
+196@Datacenter
+196@System Administration
+196@OpenStack
+196@RHEL
+196@CentOS
+197@SQL
+197@Automation
+197@Python
+197@Agile
+197@System administration
+197@Monitoring
+197@Customer support
+197@Computer science
+197@Machine learning
+197@Analytical
+198@R
+198@SAS
+198@GCP
+198@Cloud
+198@Big Data
+198@Machine Learning
+198@AWS
+198@Python
+199@quality processes
+199@data warehouse
+199@large
+199@enterprise
+199@procedures
+199@data architecture
+199@designing
+200@Apache
+200@Linux
+200@PHP
+200@development
+200@technical
+200@software
+200@Social media
+200@developing
+200@HBase
+200@nosql
+200@cloud
+200@scripting
+200@project support
+200@RDBMS
+200@design
+200@developer
+200@hadoop
+200@Open source
+200@Ruby
+200@Pentaho
+200@support
+200@architecture
+200@applications
+200@hardware
+201@Excel
+201@Data management
+201@EMEA
+201@Project management
+201@Data quality
+201@Application development
+201@Informatica
+201@SQL
+201@Cdo
+201@data profiling
+202@Check Point
+202@Cisco
+202@Palo Alto
+203@Data Entry Operation
+203@Typing
+203@computer operator
+203@back office
+203@backend
+204@Customer Service
+204@Help Desk
+204@Information
+204@Telephony support
+204@customer relationship
+204@access controls
+204@Vendor Management
+204@Asset Management
+205@data security
+206@Java
+206@C++
+206@C#
+206@Machine Learning
+206@Solution Architect
+206@Hadoop
+206@Data Analyst
+207@R
+207@SAS
+207@Data Analysis
+207@Big Data
+207@Data Collection
+207@Data Modeling
+207@Data Architecture
+207@Data Analytics
+207@ETL
+207@Data Governance
+208@BPO
+208@Data Entry Operation
+208@Cce
+208@Inbound
+208@Calling
+208@Domestic
+208@Night Shift
+208@international bpo
+208@bpo fresher
+208@domestic bpo
+208@telecaller
+208@tele marketing executive
+208@tele calling executive
+208@BPO Hiring
+208@bpo recruitment
+209@Usage
+210@Computer science
+210@Capacity management
+210@Machine learning
+210@Agile
+210@Data mining
+210@MATLAB
+210@Monitoring
+210@Financial services
+210@SQL
+210@Python
+211@Telecom
+211@Senior management
+211@Networking
+211@sales enablement
+211@Flex
+211@Database
+211@Data analytics
+211@Executive search
+211@Key account management
+212@PLM
+212@Production engineering
+212@Process improvement
+212@Data Analyst
+212@Product data management
+212@Siemens
+212@Interpersonal skills
+212@Excel
+212@ERP system
+212@Product life cycle management
+213@voice
+213@BPO
+213@Bca
+213@fresher
+213@Backend
+213@data analysis
+213@Bba Fresher
+213@english
+213@book keeping
+213@communication
+214@Market research
+214@Data analysis
+214@SQL
+214@Logistics
+214@Ideas
+214@Income tax
+214@Tax returns
+214@Data Analyst
+214@Business Executive
+214@Corporate tie-ups
+215@C++
+215@SAS
+215@Python
+215@Data analysis
+215@Prototype
+215@cassandra
+215@Analytical
+215@SPSS
+215@data visualization
+215@big data
+216@Hindi Typing
+216@Typing
+216@deo
+216@fresher
+216@data entry executive
+216@data entry operator
+216@English Typing
+216@data entry
+216@word
+216@online data entry
+217@ssis
+217@ssas
+217@power bi
+217@ms sql server
+217@etl
+217@data warehousing
+217@reporting tools
+217@database development
+217@database design
+217@database architect
+217@talend
+218@Unix
+218@Analytical skills
+218@Linux
+218@SQL database
+218@spark
+218@Machine learning
+218@Hadoop
+218@Oracle
+218@big data
+218@Python
+219@ERP
+219@Team Building
+219@Social media
+219@Data analysis
+219@Data mining
+219@Ideas
+219@MySQL
+219@MS SQL
+219@big data
+219@Algorithms
+220@spring boot
+220@Hibernate
+220@Core Java
+220@odata
+220@Rest
+220@jQuery
+220@Web services
+220@Javascript
+220@J2Ee
+220@JPA
+221@Communication Skills
+221@Selling Skills
+221@Banking
+221@Back Office
+221@Financial Products
+221@Data Entry
+222@PMP
+222@Agile
+222@Scrum
+222@Product management
+222@Machine learning
+222@JIRA
+222@Stakeholder management
+222@RFP
+222@Analytics
+222@Automotive
+223@database design
+223@python
+223@java
+223@software development
+223@NoSQL
+223@automation testing
+223@agile development
+223@object oriented programming
+223@aws
+223@SDLC
+223@Query optimization
+224@Troubleshooting
+224@Device installation
+224@Firewall
+224@Network Administrator
+225@Core Java
+225@RDBMS
+225@Coding
+225@metadata
+225@PAAS
+225@developing
+225@Data quality
+225@HBase
+225@messaging
+225@NoSQL
+225@java
+225@apache
+225@cassandra
+225@SCALA
+225@applications
+226@Customer Service
+226@Spoken English
+226@customer support executive
+226@US Shift
+226@UK Shift
+226@Email Process
+226@customer support
+226@customer care executive
+227@Business Intelligence
+227@SSAS
+227@Big Data
+227@SQL Server
+227@Informatica
+227@SSIS
+227@Data Analytics
+227@ETL
+227@AWS
+227@SQL
+228@Analytics
+228@SQL
+228@MS Office
+228@Auditing
+228@Financial services
+228@Oracle
+228@Data mining
+228@Business operations
+228@Asset management
+228@Monitoring
+229@computer operator
+229@back office
+229@back office executive
+229@typewriting
+229@Data Entry
+229@English Writing
+229@Computer
+229@typing
+229@Ms World
+229@data entry operator
+229@English Typing
+229@Data Entry Operation
+230@bpo
+230@computer operator
+230@back office
+230@lpo
+230@hr
+230@kpo
+230@call center
+230@part time
+230@data entry operation
+230@fresher
+230@front office
+230@typing
+230@online
+230@data entry operator
+230@non voice
+230@data entry
+230@freelancer
+230@ms office
+231@Supply chain
+231@Excel
+231@PDF
+231@Database management
+231@Analytical
+231@Trend analysis
+231@Data Analyst
+231@Advanced Excel
+231@Management
+231@MS Office
+232@digital marketing
+232@css
+232@it marketing
+232@SEO Analyst
+232@seo
+232@SEO Expert
+233@freshers
+233@data entry work
+234@Counselor
+234@Mentor
+234@Trainer
+234@Advisor
+234@Teaching
+235@Enovia
+236@T - SQL
+236@SVN
+236@MySQL
+236@Database Development
+236@GIT
+236@RDBMS
+236@MS SQL Server
+236@Change Control
+236@Technical Documentation
+236@Control Testing
+236@ssrs
+236@SSIS
+236@MSBI
+236@Stored Procedures
+236@Query Optimization
+236@Indexing
+237@Supply chain
+237@Computer science
+237@ERP
+237@Linux
+237@Data management
+237@Data structures
+237@Stored procedures
+237@Macros
+237@Analytics
+237@SQL
+238@SQL
+238@Business objects
+238@Business intelligence
+238@Application support
+238@Open source
+238@Remedy
+238@Consulting
+238@Change management
+238@Auditing
+238@SPSS
+239@Excel
+239@Data Analysis
+239@Install Base
+240@R
+240@Time Series Analysis
+240@Text Analytics
+240@SQL
+240@Machine Learning
+240@Natural Language Processing
+240@Finance
+240@Data Science
+240@Python
+240@Forecasting
+241@meter data management
+241@Billing
+241@Manager Technology
+241@Revenue management
+241@Application Lead
+241@Outsourcing
+241@Oracle
+241@Operations
+241@Network management system
+242@Business Intelligence
+242@Azure
+242@Data Architect
+242@Hadoop
+242@Big Data
+242@OLAP
+242@Data Warehousing
+242@ETL
+242@Solution Architect
+242@CTO
+242@Predictive Analytics
+243@bpo
+243@international call center
+243@bpo fresher
+243@domestic bpo
+243@call center
+243@inbound
+243@customer care
+243@hindi
+243@english
+243@communication
+243@non voice process
+243@data entry
+243@back office
+243@non voice
+243@fresher
+243@telecalling
+243@MS Office
+243@ms excel
+243@Tally ERP
+244@Data analysis
+244@Data migration
+244@Business analysis
+244@Computer science
+244@Business process
+244@SAP implementation
+244@Analytical
+244@Back office
+244@Data quality
+244@Data extraction
+245@Healthcare
+245@Logistics
+245@Outbound
+245@Supply chain
+245@Data entry
+245@microsoft
+245@Inventory control
+245@Support services
+245@Inventory
+245@Cloud Services
+246@Core Java
+246@JSON
+246@Troubleshooting
+246@Computer science
+246@SOA
+246@Analytical
+246@SCALA
+246@Hadoop
+246@big data
+246@GEL
+247@Big Data
+247@Presales
+247@Data Warehousing
+247@Data Analytics
+247@AWS
+247@RFP
+248@Speech Recognition
+248@NLP
+248@OpenCV
+248@Image Processing
+248@Spark
+248@Computer Vision
+248@Machine Learning
+248@Deep Learning
+248@Python
+249@Excel
+249@Data Management
+249@Data Analysis
+249@Internet
+250@Consulting
+250@Data management
+250@Data quality
+250@Outsourcing
+250@Data architecture
+250@Operations
+250@Master data management
+250@C
+250@Application Lead
+250@telco
+251@Data Quality
+251@EPM
+251@System Design
+251@ODI
+251@Informatica
+251@SSIS
+251@Project Life Cycle
+251@Data Integration
+252@SAS
+252@SQL
+252@data science
+252@python
+252@Campaign management
+252@technical
+252@level
+252@Business intelligence
+252@tools
+252@Supply chain
+252@analytics
+252@Business objects
+252@database
+252@optimization
+252@Analytical
+252@Consulting
+252@design
+252@SPSS
+252@powerpoint
+253@Accessories
+253@Data analysis
+253@Google Analytics
+253@Analytical
+253@Machine learning
+253@Data structures
+253@Reporting tools
+253@SQL
+253@Logistics
+253@Python
+254@channel business
+254@Database Administrator
+255@Business process
+255@SAP
+255@Web technologies
+255@Technical design
+255@data governance
+255@Manager Technology
+255@Ale
+255@Outsourcing
+255@Operations
+255@Object oriented programming
+256@development
+256@dba
+256@sql development
+256@oracle
+256@performance tuning
+256@database administration
+256@ocp
+257@Change management
+257@Agile
+257@SQL
+257@Computer science
+257@metadata
+257@TOGAF
+257@Analytical
+257@data governance
+257@Data quality
+257@Data architecture
+258@Storage
+258@Networking
+258@System Administration
+258@Network Administration
+258@Hardware
+258@Data Center Infrastructure
+258@Windows
+258@IT Management
+258@Virtualization
+258@HP Data Protector
+259@Performance tuning
+259@Consulting
+259@Trend analysis
+259@Customer satisfaction
+259@Customer management
+259@Lead Administrator
+259@Effort estimation
+259@Database Administrator
+259@Oracle admin
+259@Vmware Administrator
+260@Machine Learning
+260@Data Mining
+260@Big Data
+260@Data Science
+260@Python
+260@Data Management
+260@Artificial Intelligence
+261@Oracle
+261@Billing
+261@Business process
+261@Outsourcing
+261@Operations
+261@meter data management
+261@Network management system
+261@Revenue management
+261@Manager Technology
+262@Oracle
+262@SQL Server
+262@DB2
+262@Sybase
+262@DB
+262@deployment
+263@Engineering services
+263@PLM
+263@ERP
+263@Product engineering
+263@Web services
+263@Staffing
+263@Project management
+263@Consulting
+263@Outsourcing
+263@Software services
+264@Automation
+264@Payroll
+264@Application testing
+264@Linux kernel
+264@Debugging
+264@Test cases
+264@Open source
+264@Virtualization
+264@Python
+264@Testing
+265@python
+265@Big Data Analytics
+265@data analytics
+265@Cognos BI
+265@data modeling
+265@Data Analysis
+265@data visualization
+265@ssis
+265@sql
+266@data science
+266@Machine learning
+266@Programming
+266@Data quality
+266@data visualization
+266@big data
+266@Statistics
+266@SQL
+266@Python
+267@Database Analyst
+268@Machine learning
+268@Data mining
+268@Principal component analysis
+268@Statistical analysis
+268@Factor analysis
+268@Time series analysis
+268@Arima
+268@Finance
+268@Statistics
+269@SQL
+269@Python
+269@Data structures
+269@Graphics
+269@Data analysis
+269@QlikView
+269@metadata
+269@Data conversion
+269@SCALA
+269@Archiving
+270@data management
+270@teradata developer
+270@teradata
+270@testing
+271@Help Desk
+271@Customer Service
+271@customer relationship
+271@access controls
+271@Asset Management
+271@Vendor Management
+272@Performance tuning
+272@Core Java
+272@Data modeling
+272@Coding
+272@Scheduling
+272@Agile methodology
+272@Teradata
+272@Distribution system
+272@Financial services
+272@SQL
+273@Akka
+273@Play Framework
+273@Web Services
+273@Docker
+273@NoSQL
+273@SCALA
+273@Web Technologies
+274@Database Administration
+274@Shell Scripting
+274@Database Design
+274@Master Data Management
+274@OLAP
+274@Disaster Recovery
+274@Data Warehousing
+274@Teradata DBA
+274@ETL
+274@Data Governance
+275@project management
+275@data management
+275@md microbiology
+275@customer service
+275@customer focus
+275@clinical data
+275@mbbs
+275@md pathology
+275@trend analysis
+275@md pharmacology
+276@cloudera
+276@python
+276@Hive
+276@mapreduce
+276@spark
+276@scala
+276@Hadoop
+276@hdfs
+276@core java
+277@Forms
+277@ERP
+277@Textile
+277@IT
+277@ERP System
+277@Software Development
+277@Visual Basic
+277@IT Manager
+277@sql 2008
+277@Database
+277@MS SQL Server
+277@IT Management
+278@Data Science
+278@Java
+278@R
+278@SAS
+278@Scala
+278@Statistical Modeling
+278@PhD
+278@Machine Learning
+278@Python
+279@Product Management
+279@Marketing Campaigns
+279@Digital Marketing
+279@Data Analyst
+279@Digital Analytics
+279@Deep Learning
+279@R
+279@Sales
+279@Excel
+279@Data Analysis
+279@Data Modeling
+279@Consumer Insights
+279@Python
+280@Computer Operator
+280@Data Entry Operator
+281@data science
+281@Unix
+281@HTML
+281@Perl
+281@Android
+281@Shell scripting
+281@Data modeling
+281@RDBMS
+281@Stored procedures
+281@Analytics
+282@analytics reporting
+282@R
+282@data analytics
+282@SAS
+282@operational risk
+282@data visualization
+282@Machine Learning
+282@SQL
+283@Word
+283@Advanced Excel
+283@Data Processing
+283@data entry
+284@Analytics
+284@SQL
+284@Coding
+284@Analytical
+284@Data collection
+284@Computer science
+284@PDF
+284@data integrity
+284@Python
+284@Interpersonal skills
+285@Spark
+286@Analytics
+286@Machine learning
+286@Artificial Intelligence
+286@Data modeling
+286@data science
+286@Software solutions
+286@Technical Lead
+287@Networking
+287@Apache
+287@SQL
+287@development
+287@Hadoop
+287@Architectural design
+287@tools
+287@cloud
+287@java
+287@Coding
+287@Open source
+287@big data
+287@Virtualization
+287@programming
+287@Testing
+288@Excel
+288@Data Entry Operation
+289@Data analysis
+289@SQL
+289@Advanced Excel
+289@Root cause analysis
+289@Excel
+289@MS Access
+289@Data Analyst
+289@Python
+289@Database
+289@VBA
+290@SQL
+290@Automation
+290@Data modeling
+290@Scrum
+290@OLAP
+290@Manager Quality Control
+290@Computer science
+290@Machine learning
+290@metadata
+290@Forecasting
+291@computer operator
+291@back office
+291@Part Time
+291@Data Entry Operator
+291@typing
+291@backend
+291@English Typing
+291@Freelancing
+291@data entry
+292@Data Science
+292@Machine Learning
+293@MS Office
+293@US healthcare
+293@Powerpoint
+293@Subject Matter Expert
+293@professional services
+293@Typing speed
+293@Basic
+293@Management
+294@Business intelligence
+294@Data analysis
+294@Data migration
+294@Monitoring
+294@Auditing
+294@DBMS
+294@SQL Tuning
+294@Data quality
+294@Information management
+294@data mapping
+295@WAN
+295@cisco
+295@SSL
+295@Monitoring
+295@Intranet
+295@Websense
+295@ASR
+295@Local area network
+295@Workforce management
+295@Quality management
+296@GIT
+296@Stored Procedures
+296@Shell Scripting
+296@Ubuntu Linux
+296@MySQL
+296@SQL Queries
+296@SVN
+296@Version Control
+296@Bash
+296@AWS
+297@J2Ee
+297@Unix
+297@Hibernate
+297@Python
+297@Performance tuning
+297@Coding
+297@Debugging
+297@Agile methodology
+297@Architectural design
+297@big data
+298@data analysis
+298@Customer Service
+298@Help Desk
+298@Information
+298@Telephony support
+298@customer relationship
+298@access controls
+299@front end
+300@Fire Alarm System
+300@Communication Protocols
+300@Data Center Management
+300@Data Analysis
+300@Data Center Infrastructure
+300@Maintenance Activities
+301@toxicology
+301@English
+301@French
+301@Word
+301@Chemical
+301@Microbiology
+301@German
+301@Biochemistry
+301@Spanish
+302@Hindi Typing
+302@customer calling
+302@Typing
+302@inbound
+302@Non Voice Process
+302@Calling
+302@Backend Operations
+302@Non Voice
+302@Data Entry
+302@Bpo Non Voice
+302@Data Entry Operator
+302@DEO
+302@Backend
+302@Back Office
+302@Back Office Support
+303@Architecture
+303@Cloudera
+303@Hadoop
+303@HDFS
+303@Hive
+303@NoSql
+303@Cloud
+303@Spark
+303@Hbase
+304@deep learning
+304@software architecture
+304@C++
+304@Networking
+304@Database management
+304@Management systems
+304@Machine learning
+304@big data
+304@Data warehousing
+304@Python
+305@Data Structure
+305@Algorithm
+305@MySQL
+305@NoSQL
+305@Redis
+305@MongoDB
+305@Couchbase
+305@AWS
+305@Docker
+306@Deep Learning
+306@Machine Learning
+306@R
+306@Python
+306@Data Mining
+306@Gradle
+306@Subversion
+306@Statistical Analysis
+306@Design Analysis
+306@Computer Science
+307@data entry
+307@data entry operator
+307@backend
+307@back office
+308@NoSQL
+308@Hadoop
+308@Cassandra
+308@Big Data
+308@MongoDB
+308@Solution Design
+308@Hbase
+308@Analytics
+308@MapReduce
+308@HBase
+309@bpo
+309@back office
+309@inbound
+309@night shift
+309@calling
+309@data entry
+309@mnc
+309@data entry operator
+309@Computer Operator
+309@Office Assistance
+309@Admin Executive
+310@Business intelligence
+310@SQL
+310@Python
+310@Computer science
+310@Performance tuning
+310@Coding
+310@SCALA
+310@Data quality
+310@Analytics
+310@Software services
+311@Export Documentation
+311@Data Entry
+311@B.Com
+311@Export Import
+311@Data Entry Operation
+312@Spark
+312@Hive
+312@SQL
+312@SCALA
+312@Core Java
+312@Sqoop
+312@Big Data
+312@Data Modeling
+313@Customer Service
+313@Help Desk
+313@Information
+313@Telephony support
+313@customer relationship
+313@access controls
+313@Vendor Management
+313@Asset Management
+314@Query Optimization
+314@Bteq
+314@Fastload
+314@Data Mover
+314@Teradata
+314@Teradata Developer
+314@SQL
+314@Agile Methodology
+314@Shell
+314@Multiload
+314@Data Warehousing
+314@ETL
+314@Python
+315@T - SQL
+315@ETL
+315@Data Warehousing
+315@SSIS
+315@Stored Procedures
+316@typing speed
+316@back office
+316@data entry
+316@backend
+316@back office executive
+316@back office operations
+316@backend operations
+316@Non Voice
+317@SQL
+317@Linux
+317@MySQL
+317@development
+317@Email
+317@Views
+317@software
+317@testing
+317@it
+317@UVM
+317@quality
+317@analytics
+317@cloud
+317@Backend
+317@java
+317@RDBMS
+317@Machine learning
+317@design
+317@Python
+318@Data Science
+318@Scala
+318@Hadoop
+318@Big Data
+318@Spark
+318@ETL
+318@Machine Learning
+319@Data analysis
+319@SQL
+319@Python
+319@Fund accounting
+319@Machine learning
+319@Support services
+319@Asset management
+319@QlikView
+319@Monitoring
+319@Financial services
+320@International BPO
+320@Call Center
+320@Non Voice Process
+320@Customer Care
+320@Calling
+320@Domestic
+320@inbound
+320@voice process
+320@international call center
+320@BPO
+320@KPO
+320@LPO
+320@Domestic BPO
+321@Automation
+321@Application development
+321@Coding
+321@Infrastructure management
+321@Business process management
+321@Artificial Intelligence
+321@Genetics
+321@SCALA
+321@Lead Business Analyst
+321@Technical Lead
+322@Sales
+322@Consulting Sales
+322@B2B Sales
+323@Deep Learning
+323@R
+323@SAS
+323@SQL Queries
+323@Data Science
+323@Machine Learning
+323@Data Mining
+323@Logistic Regression
+323@Statistical Programming
+323@Data Visualization
+323@SQL
+324@receptionist
+324@computer operator
+324@office assistant
+324@Airport
+324@Back Office
+324@back office executive
+324@office administration
+324@Data Entry
+324@Data Entry Operation
+325@python
+325@Web Crawling
+326@asset servicing
+326@Analyst
+326@Data management
+326@Analytical
+326@Finance
+326@Quantitative analysis
+327@Big Data
+327@Hadoop
+327@Spark
+328@Java
+328@SOA
+328@SaaS
+328@Vertica
+328@.net
+328@OLAP
+328@OLTP
+328@Netezza.
+329@Computer science
+329@MIS reporting
+329@data services
+329@Business Analyst
+329@Rational rose
+329@Analytical
+329@Data quality
+329@Visio
+329@SQL
+330@Variance analysis
+331@development
+331@java
+331@oracle
+331@btech
+331@tuning
+331@data modeling
+331@computer science
+331@hibernate
+331@database administration
+331@ba
+332@Data Management
+332@Advanced Excel
+332@Macros
+333@backup
+333@bi
+333@sql tuning
+333@plsql
+333@sql
+333@shipping
+333@data modeling
+333@rac
+333@oracle dba
+333@linux
+333@sybase dba
+333@sql developer
+333@mirroring
+333@rman
+333@crm
+333@oracle
+333@sap
+333@sybase
+333@intel
+333@oracle admin
+333@shell
+333@apps dba
+333@asm
+333@oracle sql
+333@pl
+333@ssis
+333@unix
+334@bpo non voice
+334@freelancing
+334@online data entry
+334@data entry
+334@freelancer
+334@back office
+334@e - marketing
+334@computer operator
+335@sql
+335@oracle
+335@sql server
+335@mysql
+335@configuration
+335@workflow
+335@stored procedures
+335@functions
+335@interfaces
+335@data integration
+336@Unix
+336@Database Administration
+336@Informatica Power Center
+336@Multiload
+336@Informatica Power center
+336@Fastexport
+336@TPUMP
+336@Data Warehousing
+336@Data Modeling
+336@Oracle
+336@Teradata DBA
+337@Telecom
+337@Data analysis
+337@Excel
+337@MS Outlook
+337@Inspection
+337@Database
+337@Data Analyst
+337@professional services
+337@Research
+337@Vendor
+338@Accounting
+338@Taxation
+338@Back Office
+338@Billing
+338@ERP
+338@Excel
+338@Word
+338@Data Entry
+339@six sigma
+339@process excellence
+339@team management
+339@BI
+339@Banking
+339@data migration
+339@business intelligence
+339@bfsi
+339@cost optimization
+339@operational excellence
+339@Data Warehousing
+339@credit bureau operations
+339@Data Analytics
+340@Domestic BPO
+340@Back Office
+340@Data Entry Operation
+340@International BPO
+340@Calling
+340@Chat Process
+340@Part Time
+340@freelancer
+340@Marketing
+340@sales
+340@sales marketing
+340@direct marketing
+340@Front Office
+340@reception
+340@BPO
+340@Call Center
+340@fresher
+340@undergraduate
+341@data science
+341@machine learning
+341@python
+341@algorithms
+341@java
+341@data visualization
+341@advanced analytics
+341@data analysis
+341@data mining
+341@Eta
+341@R
+341@Network Optimization
+342@Email
+342@Views
+342@Restoration
+342@MySQL
+342@Database
+342@Configuring
+342@Database Administrator
+342@Troubleshooting
+342@Monitoring
+342@SQL
+343@Database Maintenance
+343@Stock Broking
+343@insurance
+343@MySQL
+343@PHP
+343@Laravel
+343@financial services
+343@banking
+344@clinical research
+344@data processing
+344@clinical data management
+344@ich - gcp
+345@SQL queries
+345@Statistical analysis
+345@Web technologies
+345@Script writing
+345@Hadoop
+345@Analytics
+346@Data Science
+346@NLP
+346@Statistical Modeling
+346@Data Analysis
+346@Perl
+346@Data Modeling
+346@Machine Learning
+346@Deep Learning
+346@Analytics
+346@Python
+347@development
+347@SAP
+347@ABAP
+347@service
+348@Computer Savvy
+349@SQL Server
+349@T - SQL
+350@C++
+350@SQL
+350@Python
+350@Algorithms
+350@Analytics
+350@Customer service
+350@Customer support
+350@Computer science
+350@Machine learning
+350@Tools
+351@Unix
+351@Computer science
+351@SQL queries
+351@Data analysis
+351@Email
+351@Consulting
+351@Shell scripting
+351@Educational qualification
+351@Monitoring
+351@Python
+352@jQuery
+352@SSRS
+352@Javascript
+352@ASP.Net
+352@SQL Server
+353@Linux
+353@Oracle DBA
+353@Perl
+353@Computer science
+353@Version control
+353@Analytical
+353@Data Architect
+353@PLSQL
+353@Troubleshooting
+353@Operations
+354@Oracle
+354@Db2
+354@Software development life cycle
+354@Leadership training
+354@Management
+354@Manager Technology
+354@Database
+355@Oracle DBA
+355@Oracle Admin
+355@Golden Gate
+355@Exadata
+355@Database Administration
+355@People Management
+355@Service Improvement
+355@Customer Management
+355@Vendor Management
+355@Crisis Management
+356@Data management
+356@EDC
+356@clinical data validation
+356@Management consulting
+356@Query management
+356@Reconciliation
+356@Manual
+356@Management
+356@Operations
+357@matlab
+357@technical architecture
+357@r
+357@python
+357@data science
+357@sas
+357@credit risk
+357@machine learning
+357@big data
+357@product engineering
+358@Troubleshooting
+358@SQL
+358@Database management
+358@security compliance
+358@Product Associate
+358@remediation
+358@OEM
+358@Statistics
+358@Auditing
+358@Basic
+359@metadata
+359@video editing
+360@Consulting
+360@Healthcare
+360@Bfsi
+360@Financial services
+360@Outsourcing
+360@Risk analytics
+360@Enterprise risk management
+360@Manager Technology
+360@advanced analytics
+360@risk compliance
+361@blended
+361@bpo
+361@domestic bpo
+361@international bpo
+361@Typing Speed
+361@cce
+361@inbound
+361@computer operator
+361@Computer Operating
+361@Calling
+361@customer care
+361@Non Voice
+361@Data Entry
+361@bpo fresher
+361@Back Office
+361@backend
+361@Call Center
+361@Data Entry Operation
+362@Design
+362@R
+362@Coding
+362@Python
+362@SQL
+363@computer operator
+363@Computer Operating
+363@Calling
+363@customer care
+363@back office executive
+363@Data Entry
+363@customer support
+363@deo
+363@Back Office
+363@typing
+363@data entry operator
+363@customer care executive
+364@MS Office suite
+364@Data analysis
+364@Business Analyst
+364@Business analysis
+364@Mortgage
+364@Writing skills
+364@VISIO
+364@Presentation skills
+364@Data warehousing
+364@SDLC
+365@Performance tuning
+365@Oracle DBA
+365@Customer service
+365@Oracle database
+365@Disaster recovery
+365@Banking
+365@Cloud
+365@Infrastructure
+365@Database Administrator
+365@Operations
+366@Java
+366@JEE
+366@Hadoop
+366@HDFS
+366@MR
+366@Yarn
+366@Hive
+366@Spark
+366@HBase
+366@Sqoop
+366@Flume
+366@Oozie
+367@Database Administration
+367@Azure
+367@Installation
+367@SSRS
+367@BI
+367@SQL Server
+367@Clustering
+367@Server Monitoring
+367@Database Maintenance
+367@Mirroring
+367@IIS
+367@Data Modeling
+367@Log Shipping
+368@Unix
+368@Hive
+368@Linux
+368@Data Analysis
+368@Data Processing
+368@Map
+368@Athena
+368@Data Domain
+368@SQL
+369@non voice
+369@back office
+369@data entry
+369@part time
+369@marketing
+369@fresher
+369@Call Center
+369@BPO
+369@Front Office
+369@HR
+369@Sales
+369@Online
+369@E - commerce
+369@Freelancing
+369@Content Writing
+369@IT Management
+370@enterprise content management
+370@agile process
+370@business analysis
+370@technical management
+370@project execution
+370@Agile
+370@Scrum
+370@FileNet
+371@Natural Language Processing
+371@Deep Learning
+371@NLP
+371@Neural Networks
+372@assembly language
+372@Six Sigma
+372@PMP
+372@C
+372@JavaScript
+372@.NET
+372@HTML
+372@Oracle
+372@Python
+372@SQL
+373@Senior Design Engineer
+373@Typing
+373@Science
+373@Paint shop
+374@SD
+374@MM
+375@BPO
+375@Hiring
+375@LPO
+375@call center
+375@KPO
+375@Data Entry
+375@bpo call center
+375@Communication Skills
+375@Backend
+375@bpo fresher
+375@Bpo Voice
+375@chat
+375@Domestic
+375@Domestic BPO
+375@bpo executive
+375@international call center
+375@International BPO
+376@Automation testing
+376@Test reporting
+376@IXIA
+376@Spirent
+376@Regression testing
+376@Bug reporting
+376@Perl
+376@cisco
+376@Python
+376@Scripting
+377@MS SQL
+377@Db2
+377@L2
+377@SQL DBA
+378@MS SQL
+378@Database design
+378@SQL Database Administrator
+378@Test management
+378@MySQL
+378@query
+378@Database
+378@Management
+378@Database Administrator
+378@Testing
+379@python
+379@web services
+379@oozie
+379@microsoft azure
+379@nosql
+379@java
+379@mapreduce
+379@hdfs
+379@sqoop
+379@api
+379@big data
+379@aws
+379@scripting languages
+379@azure
+380@Computer science
+380@Telecom
+380@Coding
+380@Information security
+380@ISO 27001
+380@OLAP
+380@Troubleshooting
+380@Distribution system
+380@Python
+381@Hadoop
+381@SSRS
+381@MS SQL Server
+381@Spark
+381@Data Warehousing
+381@Tableau
+381@Data Modeling
+381@SSIS
+381@ETL
+381@T - SQL
+382@Informatica
+382@datastage
+382@Data Management
+383@Help Desk
+383@Customer Service
+383@customer relationship
+383@access controls
+383@Asset Management
+383@Vendor Management
+384@Performance tuning
+384@Data modeling
+384@RDBMS
+384@Configuration management
+384@PHP
+384@Perl
+384@Teradata
+384@Business intelligence
+384@Open source
+384@Python
+385@machine learning
+385@sql
+385@python
+385@r
+385@hadoop
+385@tableau
+385@algorithms
+385@analytics
+385@customer segmentation
+385@business intelligence
+385@data analyst
+386@speed typing
+386@keyboard
+386@data entry operator
+386@shorthand
+386@ms office
+387@MS Office
+387@ERP
+387@Data Entry Operator
+387@Typing speed
+387@HR
+387@MIN
+388@Stored procedures
+388@Troubleshooting
+388@SQL
+388@Computer science
+388@GIT
+388@Database
+388@SVN
+389@Computer science
+389@Statistical modeling
+389@data science
+389@Analytical
+389@Machine learning
+389@SCALA
+389@Programming
+389@Subject Matter Expert
+389@Business intelligence
+389@Python
+390@SAP
+390@Oracle DBA
+390@ERP
+390@SSIS
+390@microsoft
+390@Database administration
+390@SSRS
+390@Siebel CRM
+390@Oracle ERP
+390@Teradata DBA
+391@SAS
+391@Big Data
+391@Tableau
+391@Statistics
+391@SQL
+391@Python
+392@Algorithm
+392@Data Structure
+393@hadoop
+393@spark
+393@hive
+393@big data
+393@scala
+393@written communication
+393@team management
+393@communication skills
+393@development testing
+393@development
+394@ospf
+394@eigrp
+394@vtp
+394@bgp
+394@wireless networking
+394@vlan
+394@switching
+394@routing
+394@l3
+395@Data Science
+395@Airlines
+395@Algorithms
+395@Aviation
+395@Power Bi
+395@Artificial Intelligence
+395@Web Technologies
+395@IT
+395@Machine Learning
+395@SQL
+395@Predictive Analytics
+396@python
+396@Hadoop
+396@Big Data
+396@nosql
+396@MapReduce
+396@cloud
+396@GCP
+396@mysql
+396@agile
+396@Spark
+396@AWS
+396@mongodb
+397@SAP MDM
+397@Data Quality
+397@Business Rules
+397@Quality Improvement
+397@Life Cycle
+398@nexus
+398@QOS
+398@WAN
+398@LAN
+398@Routing protocols
+398@CCNA
+398@cisco
+398@EIGRP
+399@MS SQL
+399@RDBMS
+399@Coding
+399@data reporting
+399@query
+399@Database
+399@Informatica
+399@Management
+399@Python
+400@infosphere
+400@etl testing
+400@technical design
+400@dw
+400@business process
+400@datastage
+400@teradata
+400@IBM DataStage
+400@oracle sql
+400@application development
+401@Analytics
+401@Data Analytics
+401@Data Management
+401@Machine Learning
+401@Big Data
+401@Hadoop
+401@Spark
+402@algorithms
+402@python
+402@Problem Solving
+402@machine learning
+402@artificial intelligence
+402@deep learning
+402@software architecture
+402@java
+402@NLP
+402@data modeling
+402@data structures
+403@back office processing
+403@BPO
+403@part time
+403@data entry
+403@computer operator
+403@backend
+403@non voice
+403@chat process
+403@account
+403@marketing
+403@inbound process
+404@Analytical
+404@Order management
+404@Analytics
+404@Claims
+404@Operations
+404@Process improvement
+404@Sales
+404@Business management
+404@Customer satisfaction
+404@Client interaction
+405@Data Entry
+405@Data Analysis
+405@analytics
+405@data analytics
+405@report
+405@dashboard
+406@System architecture
+406@Linux
+406@Architecture
+406@spark
+406@hdfs
+406@big data
+406@Apache
+406@Reporting tools
+406@Data architecture
+406@Python
+407@IP Networking
+407@CCNP
+407@Ccie
+407@Routing
+407@Checkpoint
+407@Windows
+407@Linux
+407@Troubleshooting Skills
+407@Active Directory
+407@Internet Technologies
+408@Java
+408@Angularjs
+408@Software Development
+408@Algorithms
+408@System Design
+408@Data Structures
+408@DBMS
+408@Data Analytics
+408@Test Design
+408@SDLC
+408@Operating Systems
+409@SQL
+409@ETL
+409@Pentaho
+409@Talend
+409@Informatica
+409@Data Warehousing
+409@Java
+409@Data Science
+409@Python
+409@Data Quality
+410@data entry operation
+410@vendor management
+410@mis reporting
+411@Team Management
+411@sap mdm governance
+411@sap master data governance
+411@sap master data management governance
+411@master data governance
+411@mdm governance
+411@Master Data Quality
+411@Master Data
+411@Data Governance
+411@master data management governance
+412@Data Science
+412@Java
+412@C
+412@Algorithms
+412@Data Structures
+412@Machine Learning
+412@AWS
+412@Supply Chain
+412@Python
+412@SQL
+413@MS Office Package
+413@Internet Surfing
+413@Data Entry Operation
+414@sql
+414@data analysis
+414@business analysis
+414@excel
+414@problem solving
+414@python
+414@analytics
+414@statistics
+415@Data Processor
+416@Telecom
+416@Business analysis
+416@SQL
+416@Computer science
+416@SAS
+416@Bfsi
+416@SPSS
+416@MS Office
+416@Analytics
+416@Python
+417@Time Series
+417@Arima
+417@Forecasting
+417@Time Series Analysis
+417@Python
+418@data entry operation
+418@excel
+418@computer operator
+418@advanced excel
+418@Data Entry
+418@typing
+418@Back Office
+419@SAP
+419@Business analytics
+419@Analytical
+419@Corporate finance
+419@Business intelligence
+419@Forecasting
+419@Operations
+419@Monitoring
+419@CRM
+419@Salesforce
+420@Data Science
+420@Business Intelligence
+420@Business Analytics
+421@Solr
+421@Cassandra
+421@Hadoop
+421@MongoDB
+421@Spark
+422@hadoop
+422@hive
+422@flume
+422@sqoop
+422@mapreduce
+422@hdfs
+422@spark
+422@scala
+422@java
+422@core java
+422@python
+423@MySQL
+423@Project management
+423@Troubleshooting
+423@Customer service
+423@Test planning
+423@Postgresql
+423@Computer science
+423@Continuous improvement
+423@PGSQL
+423@Performance optimization
+424@data modeling
+424@teradata
+424@bi
+424@data warehousing
+424@edw
+424@etl
+424@master data management
+425@Javascript
+425@SQL
+425@Web services
+425@server
+425@technical
+425@analytical
+425@software
+425@scala
+425@usage
+425@JSON
+425@bootstrap
+425@tools
+425@java
+425@web
+425@design
+425@hadoop
+425@programming
+425@Python
+425@architecture
+425@interfaces
+425@it
+425@nosql
+425@Product management
+425@Computer science
+425@Machine learning
+425@agile
+426@Linux
+426@Shell Scripting
+426@Hadoop
+426@Big Data
+426@Programming
+426@HDFS
+426@System Administration
+426@Perl
+426@Python
+426@MapReduce
+427@Cold calling
+427@Copyright
+427@Automation
+427@Interpersonal skills
+427@Solution selling
+427@Data analytics
+427@Business solutions
+427@Presentation
+427@Business Executive
+427@Auditing
+428@Java
+428@Hadoop
+428@SQL
+428@Spark
+428@SCALA
+428@Hive
+428@Python
+428@Data Structures
+428@Sqoop
+428@Big Data
+429@BPO
+429@Salary
+429@International Call Center
+429@back office
+429@Hiring
+429@back office executive
+429@LPO
+429@KPO
+429@Data Entry
+429@data operator
+429@Bpo Voice
+429@Travel Process
+429@Domestic BPO
+429@data entry operator
+429@International BPO
+430@Unix
+430@Production support
+430@Application development
+430@Troubleshooting
+430@Agile
+430@System architecture
+430@Investment banking
+430@Information technology
+430@Risk management
+430@Distribution system
+431@Monthly Reports
+431@Accounting
+431@Data Entry
+431@MIS Reporting
+432@Java
+432@Hibernate
+432@Database Design
+432@HDFS
+432@ORM
+432@MapReduce
+432@Pig
+432@Software Development
+432@Hive
+432@Design Development
+432@Broadband Services
+432@Automation Testing
+432@Oozie
+432@Spark
+432@AWS
+432@Agile Development
+432@Hbase
+432@Python
+433@Business Intelligence
+433@Azure
+433@Third Party
+433@SQL Server
+433@Data Warehousing
+433@Tableau
+433@SSIS
+434@MIS Reporting
+434@MIS Preparation
+434@Data Analysis
+434@Report Generation
+434@mis generation
+435@Computer science
+435@MS SQL
+435@Data conversion
+435@SSRS
+435@SQL Server integration services
+435@Healthcare
+435@Stored procedures
+435@SSIS
+435@Information technology
+435@Reporting tools
+436@Machine Learning
+436@Deep Learning
+436@Neural Networks
+436@NLP
+436@Data Science
+436@Image Processing
+436@Python
+437@Data Validation
+437@Core Data
+437@Data Management
+437@Third Party
+437@Medical Devices
+437@Customer Focus
+437@Graphic Designing
+437@Verbal Communication
+437@English Language
+437@Clinical Data
+438@MIS Preparation
+438@Data Analysis
+438@Advanced Excel
+439@Big Data
+439@Data Modeling
+440@Program Management
+440@Project Management
+440@Data Management
+440@UAT
+440@Analytics
+440@IT Operations
+441@Data Warehousing
+442@Computer science
+442@Team management
+442@Consulting
+442@Machine learning
+442@Javascript
+442@Agile
+442@HTML
+442@Outsourcing
+442@Python
+442@text analytics
+443@SSIS
+443@SQL
+443@CRM
+443@Data analysis
+443@MIS
+443@SSRS
+443@QlikView
+443@data visualization
+443@Analytics
+443@Business operations
+444@Scanning
+444@Accounting
+444@Accounts Receivable
+444@Data Entry Operation
+444@printing
+445@Enterprise Architect
+445@SAP Solution Manager
+445@SAP Basis
+446@Computer science
+446@Software packages
+446@SAS
+446@Programming
+446@Predictive modeling
+446@Risk management
+446@SQL
+446@Python
+446@Quantitative analysis
+447@ETL Tools
+447@Hadoop
+447@Big Data
+447@HDFS
+447@Informatica
+447@Impala
+447@MapReduce
+447@HBase
+447@Hive
+447@Blaze
+447@Data Warehousing
+447@Spark
+448@Bi
+448@Informatica
+448@Data Modeling
+448@Data Processing
+448@ETL
+448@Oracle
+448@SQL
+449@Unix
+449@Oracle
+449@Linux
+449@Performance Tuning
+449@Patching
+449@Cloning
+449@Team Handling
+449@Oracle Apps Dba
+450@data entry operation
+450@clerical
+450@Back Office
+450@Data Entry
+450@computer operator
+450@Database
+450@Operations
+450@Fresher
+450@Data Entry Operator
+450@typing
+450@stenographer
+451@C#
+451@Java
+451@Software Development
+451@Docker
+451@Hadoop
+451@Big Data
+451@Python
+452@Excel Powerpoint
+452@Data Manipulation
+452@Advanced Analytics
+452@Data Visualization
+452@Spark
+452@Tableau
+452@Machine Learning
+452@Statistics
+452@SQL
+452@Python
+453@deep learning
+453@python
+453@nlp
+453@data science
+453@natural language processing
+453@text mining
+453@artificial intelligence
+454@Data Management
+454@Hadoop
+454@business analysis
+454@Machine Learning
+454@business intelligence
+454@Deep Learning
+454@Data Science
+454@Data Visualization
+454@Computer Vision
+454@Python
+455@Big Data
+456@Data Entry Executive
+457@Scheduling
+457@Sales Executive
+457@Call Center Executive
+457@Business Executive
+457@Data entry
+458@SQL
+458@Business intelligence
+458@microsoft
+458@Coding
+458@Analytics
+458@Business process
+458@Outsourcing
+458@Artificial Intelligence
+458@Analysis services
+458@Operations
+459@Business Intelligence
+459@Java
+459@Hive
+459@C
+459@MySQL
+459@Cassandra
+459@Big Data
+459@Data Visualization
+459@Python
+460@BPO
+460@Inbound Process
+460@Hindi Typing
+460@Customer Service
+460@Typing
+460@Cce
+460@Calling
+460@Non Voice
+460@Data Entry
+460@Inbound
+460@Data Entry Operator
+460@CSA
+460@Backend
+460@Domestic Voice Process
+460@Back Office
+460@Domestic BPO
+460@Call Center
+460@International BPO
+461@Troubleshooting
+461@Cisco
+461@Debugging
+461@Service
+461@IPV6
+461@network services
+461@English language
+461@Language skills
+461@Infrastructure
+461@Supervision
+462@Communication Skills
+462@Time management
+463@Agile
+463@Performance tuning
+463@Coding
+463@Scrum
+463@Team management
+463@Integration testing
+463@Version control
+463@GIT
+463@Continuous improvement
+463@Process orientation
+464@fresher
+464@bpo fresher
+464@call center executive
+464@Computer Operating
+464@bpo executive
+464@Data Entry
+464@Part Time
+465@Data Entry Operator
+466@Data Warehousing
+467@paas
+467@saas
+467@web
+467@analyst
+467@designing
+467@applications
+468@Jewellery
+468@algorithms
+468@software development
+468@Gems
+468@Documentation
+468@Term loans
+468@DevOps
+468@Project finance
+468@Loan
+468@Real Estate
+468@Corporate Loans
+468@Working Capital
+469@Unix
+469@SQL Server
+469@Oracle Database
+469@Linux
+469@Perl
+469@Shell Scripting
+469@GIT
+469@CVS
+469@AWS
+469@Python
+470@R
+470@SCALA
+470@Hadoop
+470@Neural Networks
+470@Big Data
+470@Statistical Modeling
+470@Data Mining
+470@Spark
+470@Machine Learning
+470@Python
+471@Predictive Modeling
+471@Pattern Recognition
+471@R
+471@Database Design
+471@Data Visualization
+471@Data Modeling
+471@Machine Learning
+471@Python
+471@SQL
+472@analytics
+472@data analytics
+472@XML
+472@data mining
+472@Javascript
+472@Data Analysis
+472@Business Objects
+472@SQL
+473@high frequency trading
+473@Multithreading
+473@Algorithms
+473@Financial markets
+473@C
+473@Data structures
+473@high performance computing
+473@Strategy development
+473@Python
+474@email
+474@basic computer knowledge
+475@Analytics
+475@SQL
+475@Computer science
+475@Machine learning
+475@Python
+475@big data
+475@Natural language processing
+475@Version control
+475@spark
+475@Hadoop
+476@NoSQL
+476@Cassandra
+476@MongoDB
+476@Shell
+476@Linux
+477@bpo
+477@Inbound Process
+477@computer operating
+477@Customer Service
+477@chat process
+477@back office
+477@email process
+477@outbound process
+477@call center
+477@data entry operation
+477@backend
+477@non voice
+477@data entry
+478@Data modeling
+478@RDBMS
+478@Coding
+478@OLAP
+478@Scrum
+478@Oracle
+478@Teradata
+478@Analytics
+478@SQL
+478@Physical design
+479@Agency Management
+479@Analytics
+479@Marketing
+479@SMM
+479@Marketing Management
+479@SEM
+479@SEO
+479@Performance measurement
+479@Trend Analysis
+479@Product marketing
+479@Customer Acquisition
+480@RDBMS
+480@Database design
+480@T-SQL
+480@global mobility
+480@Indexing
+480@Solid
+480@Performance tuning
+480@Programming
+480@SQL development
+480@Educational qualification
+481@bpo
+481@freelancing
+481@domestic bpo
+481@computer operator
+481@online promotion
+481@back office
+481@branding
+481@back office executive
+481@kpo
+481@call center
+481@part time
+481@sales
+481@ads
+481@promotions
+481@receptionist
+481@freelancer
+482@Oracle
+483@SAP B1
+484@domestic bpo
+484@Customer Service
+484@international bpo
+484@Call Center Operations
+484@computer operator
+484@back office
+484@call center
+484@Customer Care Executive
+484@Customer Support
+484@inbound process
+484@calling
+484@Customer Care
+484@data entry operator
+484@data entry
+485@Data Analytics
+486@operations
+486@technology
+486@human resources
+486@finance
+487@Analytics
+487@Data Management
+487@Data Analytics
+487@Statistics
+487@SAS
+488@Data Science
+488@R
+488@predictive modeling
+488@Advanced Analytics
+488@statistical modeling
+488@Python
+489@hive
+489@cloudera
+489@spark
+489@linux
+489@hadoop
+489@big data
+489@hbase
+489@pig
+490@Computer Operating
+490@Calling
+490@business development
+490@Part Time
+490@sales
+490@Marketing
+490@Back Office
+490@freelance
+490@Online Marketing
+490@Call Center
+490@Data Entry Operation
+491@Data Mining
+492@Mba Finance
+492@venture capital
+492@private equity
+492@investment banking
+492@Mba Finance Fresher
+492@Data Analyst
+492@Financial Analyst
+492@data collection
+492@finance
+492@mergers
+492@research
+492@CFA
+493@it management
+493@data modeling
+493@verbal communication
+493@data warehousing
+494@BPO
+494@call centre
+494@Cce
+494@computer operator
+494@Non Voice Process
+494@back office
+494@office assistant
+494@ites
+494@backend process
+494@kpo
+494@Inbound
+494@Chat Process
+494@deo
+494@bpo call center
+494@Domestic BPO
+494@data entry operator
+494@Night Shift
+494@data entry
+494@Data Entry Operation
+495@C++
+495@data science
+495@HTML
+495@SAS
+495@Perl
+495@MATLAB
+495@Technical support
+495@Analytics
+495@Android
+495@Python
+496@Computer Operator
+496@Typing
+496@data
+496@Non Voice Process
+496@Non Voice
+496@Voice Process
+496@Data Entry
+496@Inbound
+496@Data Entry Operator
+496@Backend
+496@Domestic Voice Process
+496@Domestic
+496@Back Office
+496@Fresher
+496@Call Center
+496@Voice
+496@Data Entry Operation
+496@International BPO
+497@Data Services
+498@Data Management
+498@Machine Learning
+498@Data Mining
+498@Scripting
+498@Data Visualization
+498@MongoDB
+498@NoSQL
+498@R
+498@MATLAB
+499@Data Manipulation
+499@Data Analysis
+499@Big Data
+499@Data Visualization
+499@Data Mining
+499@Senior Management
+499@Spark
+499@Data Processing
+499@Python
+500@Hive
+500@NoSQL
+500@Sqoop
+500@Hadoop
+500@Cassandra
+500@Machine Learning
+500@HBase
+500@Pig
+500@SQL
+500@Python
+501@Graphics
+501@Front office
+501@Business analytics
+501@Process improvement
+501@Agile
+501@Data structures
+501@Healthcare
+501@Stored procedures
+501@QlikView
+501@SQL
+502@business research
+502@data analysis
+502@mis
+502@market research
+502@MIS Reporting
+503@Product management
+503@ERP
+503@Data analysis
+503@PHP
+503@Data Analyst
+503@Open source
+503@Data mining
+503@SQL
+503@CRM
+503@Python
+504@Reconciliation
+504@Process improvement
+504@Billing
+504@Team management
+504@Financial reporting
+504@Fund accounting
+504@Balance Sheet
+504@Asset management
+504@Bloomberg
+504@Operations
+505@SAP ECC
+505@SAP HANA
+505@SAP BW
+505@SAP Implementation
+505@Data Integration
+506@Computer science
+506@Process automation
+506@Manager Internal Audit
+506@SAP
+506@Analytical
+506@QlikView
+506@Business intelligence
+506@Operations
+506@SQL
+506@Python
+507@MySQL database management
+508@domestic bpo
+508@Customer Service
+508@international bpo
+508@Call Center Operations
+508@computer operator
+508@back office
+508@call center
+508@Customer Care Executive
+508@Customer Support
+508@inbound process
+508@calling
+508@Customer Care
+508@data entry operator
+508@data entry
+509@C#
+509@CSS
+509@C++
+509@LINQ
+509@C
+509@ASP.Net
+509@HTML
+509@SQL Server
+509@Web Development
+509@Web Services
+510@Web Application Security
+510@Solution Development
+510@IT Security
+510@Application Security Testing
+510@Web Technologies
+510@Process Analysis
+510@Data Security
+510@Maintenance Activities
+510@Technical Management
+510@Security Services
+510@Security Consultant
+511@Data Science
+511@Machine Learning
+511@Python
+511@Data Mining
+511@Data Visualization
+511@SQL
+511@Data Analysis
+511@Spark
+511@Data Analytics
+511@Algorithms
+511@Lead Data Scientist
+512@Data Analysis
+513@Teradata
+513@Unix
+513@Data warehousing
+513@Datastage
+513@microsoft
+513@Analytical skills
+513@Excel
+513@Banking
+513@Management
+514@DATA SCIENTIST
+514@Perl
+514@Python
+514@Data modeling
+514@Algorithms
+514@MATLAB
+514@Data mining
+514@Distribution system
+514@Machine learning
+514@Grid
+514@Predictive modeling
+515@database manager
+515@ms sql
+515@data management
+515@ssas
+515@ssrs
+515@t - sql
+515@analysis services
+515@ssis
+515@msbi
+516@Performance tuning
+516@System testing
+516@Automation
+516@development
+516@technical
+516@Schema
+516@developing
+516@Unit testing
+516@Troubleshooting
+516@Unix shell scripting
+516@SQL
+516@scripting
+516@Data conversion
+516@Datastage
+516@developer
+516@unix
+517@Business Intelligence
+517@UX
+517@Power BI
+517@Business Analyst
+517@Data Visualization
+518@Artificial Intelligence
+518@Machine Learning
+518@Deep Learning
+518@Algorithm
+518@Data Analytics
+518@Data Science
+518@Predictive Modeling
+518@Python
+519@ORCA
+519@Risk management
+519@Analytical skills
+519@Compliance
+519@Corporate
+519@Banking
+519@Testing
+520@Help Desk
+520@Customer Service
+520@customer relationship
+520@access controls
+520@Asset Management
+520@Vendor Management
+521@QlikView
+521@Data quality
+521@Analytical
+521@Continuous improvement
+521@Root cause analysis
+521@Recruitment
+521@Data analytics
+521@Data Architect
+521@Data Analyst
+521@Electronics
+522@Linux
+522@SQL
+522@Python
+522@Data analysis
+522@Factor analysis
+522@Machine learning
+522@Data processing
+522@big data
+522@Data extraction
+523@Big Data
+523@Statistics
+523@SQL
+523@Tableau
+523@Business Intelligence
+523@Data Architect
+524@Hadoop
+524@Hive
+524@Oozie
+524@Mapreduce
+524@Cloudera
+524@Spark
+524@Pig
+524@HBase
+524@NoSQL
+524@Java
+524@Big data
+525@data warehouse
+525@Senior Consultant
+525@Software
+525@data Modelling
+525@Data Integration
+525@SQL
+525@Testing
+526@Unix
+526@Procurement
+526@Linux
+526@HP data protector
+526@data security
+526@Information security
+526@Windows
+526@Asset management
+526@Information technology
+526@Auditing
+527@Data analysis
+527@Prototype
+527@Analytical
+527@Quality systems
+527@Mentor
+527@Representative
+527@Customer engagement
+527@Business understanding
+528@DBA
+528@Cassandra
+528@NoSQL
+528@Apache Server
+528@Solr
+528@Spark
+528@Linux
+528@Scripting
+528@MySQL
+529@accounts executive
+529@tds
+529@accountant
+529@vat
+529@gst
+529@tax
+529@receivable
+529@direct tax
+529@reconciliation
+529@ap
+529@ar
+529@entry
+529@fresher
+529@accounts officer
+529@returns
+529@income tax
+529@taxation
+529@return
+529@Accounts
+530@MS Office
+530@Administration
+530@Office equipment
+530@Data Entry Operator
+530@Typing speed
+530@Focus
+531@Telecom
+531@Site management
+531@operational support
+531@RDBMS
+531@Process improvement
+531@Agile
+531@Stored procedures
+531@Troubleshooting
+531@Continuous improvement
+531@Operations
+532@Options
+532@Credit Derivatives
+532@Middle Office
+532@Futures
+532@Market Risk
+532@Valuation
+532@VAR
+532@Finance
+532@Currency
+532@Swaps
+533@Java
+533@Wealth Management
+533@NoSQL
+533@Private Banking
+533@Neo4J
+533@SCALA
+533@Big Data
+533@Spark
+533@Hdfs
+533@Data Modeling
+534@WebLogic
+534@Database Design
+534@Oracle DBA
+534@Oracle Support
+534@Oracle RAC
+534@Applications Security
+535@big data analyst
+536@Data Entry Operation
+536@Computer Operating
+536@BPO
+536@LPO
+536@Offline
+536@Phone
+536@Part Time
+536@Fresher
+536@call center
+536@inbound
+536@customer care
+536@customer support
+536@cse
+536@csa
+536@customer service associate
+536@Outbound Calling
+536@inbound calling
+536@Data Entry
+536@typing
+537@Informatica
+537@SQL
+537@CRM
+537@software
+537@mca
+537@sharepoint
+537@microsoft
+537@Unix shell scripting
+537@scripting
+537@web
+537@design
+537@Control-M
+537@Software services
+537@development
+537@consulting
+537@mobile
+537@Incident management
+537@it
+537@Teradata
+537@SDLC
+537@application
+537@Healthcare
+537@developer
+537@support
+537@unix
+538@inform
+538@oracle clinical
+538@Rave
+538@Clinical Data Management
+539@data science
+539@Linux
+539@SAS
+539@Enterprise applications
+539@Data structures
+539@Open source
+539@Risk management
+539@Ruby
+539@SQL
+539@Python
+540@Datastage
+540@Automation
+540@Data modeling
+540@Performance tuning
+540@RFP
+540@System software
+540@Outsourcing
+540@Data architecture
+540@process integration
+540@Operations
+541@fresher
+541@bpo fresher
+541@call center executive
+541@Computer Operating
+541@bpo executive
+541@Data Entry
+541@Part Time
+542@bpo
+542@inbound
+542@computer operator
+542@customer care
+542@back office executive
+542@Non Voice
+542@Data Entry
+542@bpo call center
+542@data operator
+542@voice process
+542@bpo fresher
+542@Back Office
+542@Domestic BPO
+542@data entry operator
+542@Call Center
+542@Data Entry Operation
+543@cloud
+543@big data
+543@devops
+544@SAP
+544@Master data management
+544@Chemistry
+544@Management
+545@bpo
+545@night shift
+545@blended
+545@telecaller
+545@cce
+545@inbound
+545@computer operator
+545@back office
+545@fresher
+545@calling
+545@outbound sales
+545@telecalling
+545@data entry operator
+545@backend
+545@data entry
+545@customer care executive
+546@Oracle development
+546@Performance tuning
+546@Oracle RDBMS
+546@MIN
+546@Data modeling
+546@Packaging
+546@PLSQL
+546@data visualization
+546@Data warehousing
+546@SQL
+547@Fresher
+547@Online Data Entry
+547@Data Entry Operator
+547@Computer
+548@Teradata
+548@Troubleshooting
+548@SDLC
+548@IT services
+548@Performance tuning
+548@Data migration
+548@development
+548@analytical
+548@functions
+548@Infrastructure management
+548@Stored procedures
+548@it
+548@IPS
+548@database
+548@application
+548@infrastructure
+548@Agile
+548@developer
+548@support
+549@Java
+549@Entity Framework
+549@Algorithm
+549@Data Structure
+549@Startup
+549@OOPS
+549@MySQL
+549@SDLC
+550@Data Entry Operator
+550@Pharma
+550@Healthcare
+550@Pharmacy
+550@Hospitality
+550@Veterinary
+550@Botany
+550@Physiotherapy
+550@Public health
+550@Social work
+551@C++
+551@Algorithms
+551@Machine learning
+551@SCALA
+551@Tools
+551@Customer support
+551@Natural language processing
+551@Customer service
+551@Map
+551@Python
+552@Unix
+552@Data structures
+552@Python
+552@algorithms
+552@development
+552@technical
+552@Workflow
+552@developing
+552@it
+552@tools
+552@Technical documentation
+552@Computer science
+552@java
+552@application
+552@Coding
+552@Analytical
+552@service
+552@design
+552@Object oriented programming
+552@Testing
+552@applications
+552@deployment
+553@togaf
+553@vmware
+553@ccna
+553@ITIL
+553@TCP
+553@Ddos
+553@Proxy
+554@data entry operation
+554@offline
+554@freelancing
+554@freelancer
+554@part time
+555@digital marketing
+555@bpo
+555@bba
+555@freelancing
+555@bca
+555@online promotion
+555@web marketing
+555@bca fresher
+555@kpo
+555@call center
+555@trainee
+555@Data Entry
+555@internet marketing
+555@mba
+555@part time
+555@sales
+555@sales and marketing
+555@online marketing
+555@fresher
+555@bcs
+555@typing
+555@freelancer
+556@Coder
+556@Python Developer
+556@Digital Marketing
+556@faculty
+556@Training
+556@Data Science
+556@Coding
+556@trainer
+556@english
+556@training manager
+556@AWS
+556@Python
+557@data privacy
+558@SSIS
+558@SSRS
+558@SSAS
+558@Power Bi
+558@T - SQL
+558@C#
+559@Data Entry
+559@Typing Speed
+559@Computer
+559@Data Entry Operator
+559@Computer Operator
+559@domestic process
+560@Data Entry Operator
+561@HR
+562@Oracle
+562@Unix
+562@Db2
+562@Informatica
+562@PLSQL
+562@SyBase
+562@RDBMS
+562@DBMS
+562@Business Executive
+562@Marketing Executive
+563@Business process
+563@Outsourcing
+563@SAP ERP
+563@Operations
+563@data governance
+563@Architectural design
+563@Manager Technology
+563@Finance
+563@C
+564@Java
+564@Hibernate
+564@OOAD
+564@ORM
+564@Webservices
+564@Performance Tuning
+564@Spring
+564@Algorithm
+564@Data Structure
+564@SQL
+564@NoSQL
+564@design patterns
+565@Assurance
+565@Relationship building
+565@Network security
+565@Forensic
+565@Social media analytics
+565@Business Executive
+565@Network troubleshooting
+565@Client servicing
+565@Manager Client Servicing
+565@malware analysis
+566@backend operations
+566@back office
+566@back office operations
+566@back office executive
+566@backend
+566@Non Voice
+566@typing speed
+566@communication skills
+567@data quality
+567@python
+567@data mining
+567@statistical modeling
+567@segmentation
+567@text mining
+567@machine learning
+567@big data
+567@statistics
+568@Business process
+568@Data migration
+568@data services
+568@C
+568@Project management
+568@Performance testing
+568@Outsourcing
+568@Operations
+568@SAP BI
+568@Analytics
+569@Project management
+569@Clinical trials
+569@Computer science
+569@GCP
+569@Clinical data management
+569@Risk management
+569@Data quality
+569@Pharmacy
+569@Interpersonal skills
+569@Nursing
+570@Information Security
+570@Security
+570@Data Security
+570@IT Audit
+570@CISA
+570@CISM
+570@CISSP
+571@Behavioural Skills
+571@Excel
+571@Computer Science
+571@Problem Solving
+571@Data Analysis
+571@Data Cleansing
+571@Business Operations
+571@Data Collection
+571@Data Analytics
+571@Verbal Communication
+572@part time
+572@data entry
+572@freelancing
+572@typing
+572@offline
+572@back office
+572@computer operating
+572@bpo
+572@sales
+572@marketing
+572@fresher
+572@b tech
+572@bcom
+572@mba
+572@admin
+572@front office
+572@Executive
+572@computer data entry
+573@Database Administration
+574@Computer science
+574@Computer vision
+574@deep learning
+574@C++
+574@Machine learning
+574@Intellectual property
+574@Programming
+574@Data processing
+574@data visualization
+574@Python
+575@data quality
+575@r
+575@python
+575@java
+575@NoSQL
+575@data modeling
+575@scala
+575@data warehousing
+575@management systems
+575@machine learning
+575@Data warehouse
+576@Hadoop
+576@Hive
+576@Oozie
+576@Mapreduce
+576@Cloudera
+576@Spark
+576@Pig
+576@HBase
+576@NoSQL
+576@Java
+577@Performance tuning
+577@Data quality
+577@Stored procedures
+577@SSIS
+577@IT operations
+577@Business continuity
+577@Analytics
+577@Monitoring
+577@Analysis services
+577@SQL
+578@Business process
+578@Coding
+578@Analytical
+578@Debugging
+578@Outsourcing
+578@Teradata
+578@Troubleshooting
+578@big data
+578@Operations
+578@Python
+579@fresher
+579@ssas
+579@Trainee
+579@ssrs
+579@ms sql server
+579@t - sql
+579@mca
+579@b.tech
+579@ssis
+579@software trainee
+580@Front Office Executive
+580@Typing speed
+580@Email
+580@Income tax
+580@Service
+580@HR
+580@MS Office
+580@Financial services
+580@Data entry
+580@Recruitment
+581@CCNP Routing
+581@IP Networking
+581@Bgp
+581@L3VPN
+581@CCNA
+581@Switching
+581@MPLS
+581@OSPF
+581@EIGRP
+581@Cisco Routers
+582@Selenium
+582@Python
+583@Business Intelligence
+583@Visualization
+583@Power BI
+583@Data Management
+583@Qlikview
+583@Data Warehousing
+583@Tableau
+584@Technical Architect
+584@Java
+584@J2EE
+584@Product Management
+584@Data Structure
+584@Algorithm
+585@bpo
+585@Inbound Process
+585@non voice process
+585@customer care
+585@call center
+585@customer support
+585@domestic
+585@voice process
+585@voice support
+585@calling
+585@international call center
+585@Fresher
+585@customer care executive
+586@SQL
+586@Data Profiling
+586@ETL
+586@Data Quality
+586@Sap Data Services
+586@Performance Tuning
+586@Problem Solving
+586@Quality Tools
+587@Database Administration
+587@Linux
+587@Networking
+587@Patch Management
+587@Backup
+587@Oracle DBA
+587@Oracle RAC
+587@ASM
+587@Restore
+587@SQL
+588@Big Data
+588@Hadoop
+588@Open Source
+588@Automation
+589@python
+589@data interpretation
+589@advisory
+589@boutique
+589@power bi
+589@sql
+589@tableau
+589@data extraction
+589@quantitative research
+589@data visualization
+590@Performance tuning
+590@MS SQL
+590@Disaster recovery
+590@Database
+590@Windows
+590@Database Administrator
+590@Active Directory
+590@Verbal communication
+590@SQL
+590@SQL Server administration
+591@Unix
+591@Perl
+591@Shell scripting
+591@Automation
+591@Python
+591@Troubleshooting
+591@Problem management
+591@Scheduling
+591@Powershell
+591@Operations
+592@Service
+592@ERP
+592@Team Building
+592@Social media
+592@Data analysis
+592@Data mining
+592@Ideas
+592@MySQL
+592@MS SQL
+592@big data
+593@deep learning
+593@data management
+593@data science
+593@natural language processing
+593@regression
+593@machine learning
+593@classification
+593@neural network
+594@ISEB
+594@Problem Management
+594@Software Testing
+594@ISTQB
+594@System Testing
+594@Test Lead
+594@Networking
+594@Incident Management
+594@System Administration
+594@Service Level
+595@Entry
+595@Email
+595@CV
+595@Image processing
+595@Time management
+595@Analytical
+595@Back office
+595@Web designing
+595@Data Entry Operator
+595@Data entry
+596@online marketing
+596@internet marketing
+596@digital marketing
+596@digital sales
+596@online sales
+596@ad sales
+596@data entry
+597@bpo
+597@voice
+597@front office executive
+597@computer operating
+597@cce
+597@computer operator
+597@office assistance
+597@part time
+597@executive
+597@fresher
+597@Back Office
+597@typing
+597@backend
+597@data entry
+598@part time
+598@back office
+598@data entry
+598@digital marketing
+598@fresher
+598@bpo
+598@sales
+598@marketing sales
+598@Freelancing
+598@B Tech
+599@inbound
+599@customer calling
+599@Data Entry
+599@Backend Operations
+599@Back Office
+599@Back Office Support
+599@Backend
+599@Bpo Non Voice
+599@Non Voice
+599@Non Voice Process
+599@Typing
+599@Hindi Typing
+600@Market Data
+600@Service Level
+600@Fund Accounting
+600@Reference Data
+600@Finance
+600@Reconciliation
+600@Data Management
+600@Corporate Actions
+600@MS Office
+600@Investment Products
+601@Exadata
+601@Weblogic Administration
+601@Database Administration
+601@Oracle Database
+601@Oracle DBA
+601@Performance Tuning
+602@Cloud
+602@Big Data
+602@Data Warehousing
+602@Data Analytics
+602@AWS
+603@cloudera
+603@Data migration
+603@Hadoop
+603@PLSQL
+603@Oracle DBA
+603@Outsourcing
+603@Management
+603@Troubleshooting
+603@Operations
+603@Monitoring
+604@Counselor
+604@Mentor
+604@Trainer
+604@Advisor
+604@Teaching
+605@PLSQL
+605@Analytics
+605@Salesforce
+605@Order management
+605@Computer science
+605@RCA
+605@Data migration
+605@Analytical
+605@data governance
+605@Data quality
+606@Java
+606@Hibernate
+606@NoSQL
+606@Linux OS
+606@PL - SQL
+606@Spring
+606@Data Structure
+606@SQL
+607@Computer Operator
+607@Typing
+607@data
+607@Non Voice Process
+607@Non Voice
+607@Voice Process
+607@Data Entry
+607@Inbound
+607@Data Entry Operator
+607@Backend
+607@Domestic Voice Process
+607@Domestic
+607@Back Office
+607@Fresher
+607@Call Center
+607@Voice
+607@Data Entry Operation
+607@International BPO
+608@assembly language
+608@JavaScript
+608@.NET
+608@HTML
+608@Oracle
+608@Python
+608@SQL
+609@Datastage
+609@PLSQL
+609@MSBI
+609@Informatica
+609@Oracle
+610@bpo
+610@domestic bpo
+610@international bpo
+610@bpo voice
+610@back office
+610@bpo backoffice
+610@call center
+610@kpo
+610@blended process
+610@bpo executive
+610@backend
+610@non voice
+610@ITES
+610@bpo hiring
+610@bpo operations
+610@data entry
+610@bpo non voice
+610@telemarketing
+611@SAP
+611@Data
+611@Mandarin
+611@Data Entry
+612@Azure
+613@Data analysis
+613@Forecasting
+613@Data collection
+613@Investment management
+613@Machine learning
+613@Text mining
+613@Computer science
+613@Agile
+613@Investment
+613@deep learning
+614@Data modeling
+614@Management
+614@Teradata
+614@ETL tool
+614@Data warehousing
+614@SQL
+615@Biometrics
+615@CRO
+615@SAS
+615@EDC
+615@Clinical trials
+615@clinical development
+615@Clinical research
+615@Life sciences
+615@Oracle
+615@Clinical data management
+616@Data Science
+616@Data Management
+616@Predictive Modeling
+616@Big Data
+616@Artificial Intelligence
+616@Python
+616@Machine Learning
+616@PhD
+617@bpo
+617@data analytics
+617@information technology
+617@isp
+617@operation team
+617@digital strategy
+617@power bi
+617@it
+617@kpo
+617@business analyst
+617@business tools
+617@tool
+617@sql
+617@tableau
+617@quality assurance
+617@user acceptance testing
+617@business continuity
+617@telecom
+618@Bpo Non Voice
+618@Call Center
+618@International BPO
+618@Back Office
+618@Data Entry
+618@Calling
+618@Domestic
+618@inbound
+618@voice
+618@bpo
+618@kpo
+618@lpo
+618@Backend
+618@fresher
+619@User Acceptance Testing
+619@data management
+619@Clinical Data Manager
+619@Clinical Data Management
+619@Drug Development
+620@MS SQL Server
+620@Shell Scripting
+620@Data Architecture
+620@Data Quality
+620@Database Administration
+620@Data Management
+620@Business Analytics
+620@Third Party
+620@ETL
+620@SQL
+620@MYSQL
+620@Python
+621@Unix
+621@Linux
+621@SQL
+621@Maven
+621@Hibernate
+621@Core Java
+621@Workflow
+621@Agile methodology
+621@Informatica
+621@ExtJS
+622@bpo
+622@inbound
+622@night shift
+622@calling
+622@telecalling
+622@outbound sales
+622@data entry operator
+622@computer operator
+622@back office
+622@backend
+622@blended
+622@customer care executive
+622@data entry
+623@Java
+623@OpenCV
+623@Scala
+623@Hadoop
+623@Big Data
+623@Spark
+623@Machine Learning
+623@Algorithm
+623@Python
+624@Core Java
+624@Hibernate
+624@Tomcat
+624@Rest
+624@Websphere
+624@Design Patterns
+624@Weblogic
+624@Spring Boot
+624@J2Ee
+624@SOAP
+625@Datastage
+626@technology
+626@finance
+626@operations
+626@human resources
+627@Computer Operator
+627@Data Entry Executive
+627@Typing speed
+627@Data Entry Operator
+628@digital marketing
+628@customer segmentation
+628@life cycle
+628@product management
+628@customer research
+628@competitive intelligence
+628@customer retention
+628@campaign analytics
+628@telemarketing
+629@Python
+629@Performance testing
+629@SAN
+629@Selenium
+629@Analytics
+629@Data management
+629@GIT
+629@French
+629@SCALA
+630@cloud
+630@Storage
+630@Server
+630@devops
+630@it infrastructure management
+630@cloud computing
+630@Data Center
+630@IT Infrastructure
+630@application development
+631@SQL Queries
+631@Replication
+631@Database Design
+631@Stored Procedures
+631@Performance Monitoring
+631@Database Administration
+631@Data Mining
+631@Design Review
+631@Capacity Planning
+631@System Maintenance
+632@Customer Service
+632@Help Desk
+632@Information
+632@Telephony support
+632@customer relationship
+632@access controls
+632@Vendor Management
+632@Asset Management
+633@XML
+633@Data Management
+633@JSON
+633@API
+633@Python
+634@SQL
+634@microsoft
+634@Data mining
+634@Analytical
+634@Apache
+634@Open source
+634@Python
+634@Machine learning
+634@NoSQL
+634@deep learning
+635@Java
+635@Hive
+635@NoSQL
+635@Sqoop
+635@consultant
+635@Cloudera
+635@Hadoop
+635@Oozie
+635@Spark
+635@Pig
+635@HBase
+636@troubleshoot
+636@server
+636@software
+636@testing
+636@implementation
+636@project
+636@data migration
+636@it
+636@sql
+636@database
+636@consultant
+636@web
+636@migration
+636@troubleshooting
+636@mysql
+637@data science
+637@HTML
+637@Android
+637@Computer science
+637@Data structures
+637@Test cases
+637@Open source
+637@Data mining
+637@MATLAB
+637@Analytics
+638@Business intelligence
+638@SQL
+638@Python
+638@Operations research
+638@Analytical
+638@Machine learning
+638@SCALA
+638@data visualization
+638@Data mining
+638@Statistics
+639@Consulting
+639@Analytics
+639@Supply chain
+639@customer analytics
+639@Marketing analytics
+639@digital analytics
+639@Data analytics
+639@advanced analytics
+639@Pilot
+639@Solution design
+640@Azure
+640@Hadoop
+640@Cloud
+640@Big Data
+640@Spark
+640@Solution Design
+640@AWS
+640@Algorithm
+641@Computer science
+641@JMS
+641@Maven
+641@Interpersonal skills
+641@Automation
+641@Data management
+641@Packaging
+641@Data structures
+641@Python
+641@Data architecture
+642@java
+642@db2
+642@teradata
+642@Hadoop
+642@linux
+642@shell Scripting
+642@perl
+642@informatica
+643@Engagement Management
+643@Client Management
+643@Project Estimation
+643@Resource Planning
+643@Project Management
+643@Waterfall
+643@Agile
+643@Project Delivery
+643@Data Modeling
+643@big data
+643@Business Analysis
+644@SDLC
+644@Business analysis
+644@Investment banking
+644@Technical writing
+644@Information technology
+644@Monitoring
+644@Data management
+644@Computer science
+644@Financial services
+644@metadata
+645@assembly language
+645@JavaScript
+645@.NET
+645@HTML
+645@Oracle
+645@Python
+645@SQL
+646@Data Science
+646@R
+646@Data Management
+646@Big Data
+646@Data Mining
+646@Machine Learning
+646@Algorithm
+646@Python
+647@Data Science
+647@Data Management
+647@Machine Learning
+647@System Design
+647@GPS
+648@R
+648@Data Analyst
+648@Data Analytics
+648@Python
+648@SQL
+649@Domestic BPO
+649@Back Office Processing
+649@Inbound Process
+649@International BPO
+649@voice process
+649@call center
+649@international call center
+649@call center executive
+649@tele caller
+649@telecalling
+649@Data Entry
+649@back office
+650@SQL Server
+650@MSBI
+650@Azure
+650@Team Management
+651@Team leading
+651@Team management
+651@Application management
+651@Mortgage
+651@Subject Matter Expert
+651@professional services
+651@Customer interaction
+652@Excel
+652@Data Analysis
+652@SAS
+652@XML
+652@Data Mining
+652@SQL
+652@Data Analytics
+652@Statistics
+652@Segmentation
+652@Data Collection
+653@Automation
+653@metadata
+653@technical
+653@Perl
+653@Business intelligence
+653@Data mining
+653@Unix shell scripting
+653@Computer science
+653@infrastructure
+653@design
+653@e-commerce
+653@Risk management
+653@Ruby
+653@support
+653@Python
+653@architecture
+653@hardware
+654@digital marketing
+654@marketing
+654@computer operating
+654@online marketing
+654@back office
+654@back office executive
+654@travel
+654@internet marketing
+654@data entry
+654@part time
+655@coordination
+655@documentation
+655@record keeping
+655@dispatch
+655@forms
+655@registration
+655@scanning
+655@back office operations
+655@mis preparation
+656@Computer science
+656@Version control
+656@Debugging
+656@Disaster recovery
+656@Agile
+656@Healthcare
+656@Life sciences
+656@Informatica
+656@Unit testing
+656@Financial services
+657@Business process
+657@Coding
+657@Programming
+657@Outsourcing
+657@Business intelligence
+657@Cosmos
+657@Operations
+657@Analytics
+657@Analysis services
+657@SQL
+658@analytics
+658@big data analytics
+658@Bfsi
+658@big data
+658@Solution Architecture
+659@data entry
+659@computer operating
+659@calling
+659@customer care
+659@customer support
+659@customer care executive
+659@computer operator
+659@back office
+659@back office executive
+659@data entry operator
+659@typing
+659@deo
+659@fresher
+660@Java
+660@Hibernate
+660@Rest
+660@SCALA
+660@Big Data
+660@J2Ee
+660@Spark
+660@Spring
+660@Python
+661@Oracle
+661@Unix
+661@Database
+661@MS SQL
+661@Data management
+661@Performance tuning
+661@Coding
+661@Database migration
+661@Customer service orientation
+661@Monitoring
+662@SQL
+662@Automation
+662@Troubleshooting
+662@Data modeling
+662@RDBMS
+662@Product management
+662@Monitoring
+662@Computer science
+662@Account management
+662@Schema
+663@Unix
+663@Java
+663@Tomcat
+663@JBoss
+663@Oracle Database
+663@Hadoop
+663@Big Data
+663@SQL Queries
+663@J2Ee
+663@Perl
+663@serialization
+663@Core Java
+663@Hive
+663@Multithreading
+663@Algorithms
+663@collections
+663@SCALA
+663@linux
+663@Spark
+663@Python
+664@operations
+664@technology
+664@human resources
+664@finance
+665@Automation
+665@Ticketing
+665@Database design
+665@Data quality
+665@data visualization
+665@SQL
+665@Python
+665@Auditing
+665@Data architecture
+665@data profiling
+666@Data Analytics
+666@Data Analyst
+666@SQL
+666@SAS
+666@R
+666@Google Analytics
+666@Data Mining
+666@Algorithm
+667@Distribution System
+667@Management Services
+667@Shell Scripting
+667@Continuous Integration
+667@Data Structures
+667@Data Analysis
+667@Application Integration
+667@Data Modeling
+667@Data Analytics
+667@SQL
+668@Visual Basic
+668@MySQL
+668@Data Analyst
+668@KPO
+668@Business Objects
+668@Oracle
+668@Business intelligence
+668@Macros
+668@Analytics
+668@SQL
+669@Azure
+669@python
+669@Big Data
+669@Tableau
+669@Pig
+669@Hive
+669@R
+669@NoSQL
+669@SCALA
+669@Spark
+669@QlikView
+669@AWS
+670@Data Analysis
+670@Data Collection
+670@Project Management
+671@financial analysis
+671@Audit
+671@data analysis
+671@data processing
+671@auditing
+671@accounting
+671@statistical analysis
+671@Accounts
+672@Typing Speed
+672@Back Office
+672@Computer
+672@Telephone operator
+672@Data Entry Operation
+673@SQL Server
+673@Big Data
+673@Data Modeling
+673@Performance Tuning
+673@Project Delivery
+674@Big Data
+674@Hadoop
+674@Spark
+674@Cassandra
+674@MongoDB
+674@Java
+674@C#
+674@Data Management
+674@Cloud
+675@Data Analysis
+676@Data analysis
+676@Project management
+676@SQL
+676@Mining
+676@Factor analysis
+676@Google Analytics
+676@Web analytics
+676@Omniture
+676@Project delivery
+676@Python
+677@Advanced Excel
+677@Macros
+677@VBA
+677@MIS Reporting
+677@Data Analysis
+677@Night Shift
+677@Dashboards
+678@Hadoop
+678@Oozie
+678@Spark
+678@Cloudera
+678@HBase
+678@SCALA
+678@Cassandra
+678@Java
+678@Big Data
+678@SQL
+679@Unix shell scripting
+679@Oracle data integrator
+679@Programming
+679@Manager Technology
+679@Mentor
+679@c
+679@oracle
+679@development
+679@technical
+679@unix
+679@software
+679@application
+679@developer
+679@ui
+679@com
+679@pl
+679@support
+679@scripting
+679@it
+680@Logistic regression
+680@SAS
+680@Project management
+680@Business analytics
+680@Analytical
+680@Data processing
+680@Data mining
+680@Financial services
+680@SQL
+680@Data extraction
+681@back office
+681@data entry
+681@digital marketing
+681@fresher
+681@bpo
+681@sales marketing
+681@sales & marketing
+681@Freelancing
+681@freelancer
+681@under graduate
+682@Project management
+682@Data analysis
+682@SQL
+682@SAS
+682@Forecasting
+682@Supply chain
+682@Data mining
+682@Operations research
+682@Analytical
+682@Operations
+683@scrum
+683@business analysis
+683@agile process
+683@big data
+683@project execution
+683@data cleansing
+683@ETL
+684@HTML
+684@Javascript
+684@CSS
+684@JQuery
+684@JSON
+684@Web Development
+684@Html5
+684@MVC
+684@XML
+684@Eclipse
+685@Requirement Gathering
+685@UML
+685@C
+685@Design Patterns
+685@Technical Architecture
+685@Rational Rose
+685@Software Development
+685@Business Analysis
+685@.NET Framework
+685@Project Tracking
+685@OOPS
+685@.net core
+685@sql
+685@azure
+686@SAS
+686@Natural Language Processing
+686@Big Data
+686@Machine Learning
+686@Deep Learning
+686@SQL
+686@R
+686@Algorithms
+686@Opencv
+686@Spark
+686@Computer Vision
+686@Python
+687@DBA
+687@Security
+687@DB
+687@Sybase
+688@hr recruiter
+688@screening
+688@recruiter
+688@mass hiring
+688@bulk hiring
+688@hr
+688@Data Entry
+688@HR Manager
+688@bpo recruiter
+688@recruitment consultant
+688@recruitment
+688@recruitment executive
+688@headhunting
+688@bpo hiring
+688@bulk recruitment
+689@R
+689@Hive
+689@Segmentation
+689@Linear Regression
+689@Spark
+689@Tableau
+689@Machine Learning
+689@Statistics
+689@Deep Learning
+689@Python
+690@python
+690@optimization
+690@mathematics
+690@predictive modeling
+690@statistics
+690@sql
+691@Data Integration
+691@Pentaho
+691@Data Management
+692@python
+692@django
+692@machine learning
+692@sql
+692@Data Science
+692@Predictive Analytics
+692@Statistical Analysis
+692@Data Extraction
+692@Data Cleansing
+692@Linear Regression
+692@Logistic Regression
+692@Data Mining
+693@Data Management
+693@Agile
+693@Scrum
+694@Computer science
+694@Analytical
+694@Operations
+694@technical
+694@Database design
+694@Database management
+694@Data structures
+694@Database Administrator
+694@tools
+694@tracking
+694@database
+694@infrastructure
+694@design
+694@Database administration
+694@support
+694@programming
+694@hardware
+695@Application Development
+695@SOA
+695@Networking
+695@Web Technologies
+695@Application Integration
+695@SOAP
+695@Datapower
+695@Data Center
+695@Web Services
+696@Monthly Reports
+696@Balance sheet
+696@Finance
+696@general accounting
+696@Data Quality
+696@Reconciliation
+696@Data Analysis
+696@General Ledger
+696@trial balance
+696@Test Cases
+696@Data extraction
+697@Product engineering
+697@Analytical
+697@Machine learning
+697@Open source
+697@Data mining
+697@Business solutions
+697@Analytics
+697@Monitoring
+697@SQL
+697@Python
+698@SMS
+698@Data Entry Operator
+698@management
+698@Executive search
+698@Office Coordinator
+698@query
+698@Management Executive
+698@Cloud

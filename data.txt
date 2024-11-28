@@ -1,0 +1,699 @@
+id@industry@role@salary_lb@salary_ub@min_yrs
+1@IT-Software, Software Services@DBA@@@2
+2@Strategy, Management Consulting Firms@Associate,Senior Associate -(NonTechnical)@@@0
+3@IT-Software, Software Services@Software Developer@@@2
+4@Medical, Healthcare, Hospitals@Software Developer@@@5
+5@KPO, Research, Analytics@Data Analyst@275000.0@700000.0@2
+6@BPO, Call Centre, ITeS@Fresher@125000.0@375000.0@0
+7@IT-Software, Software Services@Data Analyst@@@2
+8@IT-Software, Software Services@Team Lead,Technical Lead@@@5
+9@IT-Software, Software Services@Software Developer@@@10
+10@Strategy, Management Consulting Firms@Associate,Senior Associate -(NonTechnical)@@@0
+11@Banking, Financial Services, Broking@Associate,Senior Associate -(NonTechnical)@@@2
+12@Banking, Financial Services, Broking@Stenographer,Data Entry Operator@90000.0@125000.0@0
+13@IT-Software, Software Services@Software Developer@@@3
+14@IT-Software, Software Services@Software Developer@@@3
+15@BPO, Call Centre, ITeS@Associate,Senior Associate -(NonTechnical)@150000.0@200000.0@0
+16@IT-Software, Software Services@Financial Analyst@@@0
+17@IT-Software, Software Services@Administration Services,Medical Facilities@@@2
+18@IT-Software, Software Services@Technical Architect@@@3
+19@Recruitment, Staffing@Data Analyst@@@0
+20@BPO, Call Centre, ITeS@Fresher@225000.0@500000.0@0
+21@IT-Software, Software Services@Software Developer@@@9
+22@IT-Software, Software Services@Team Lead,Technical Lead@@@7
+23@Banking, Financial Services, Broking@Software Developer@@@2
+24@IT-Software, Software Services@Functional Outside Consultant@100000.0@600000.0@5
+25@IT-Software, Software Services@Other@@@4
+26@IT-Software, Software Services@Team Lead,Technical Lead@@@8
+27@IT-Software, Software Services@Sales,Business Development Manager@@@1
+28@BPO, Call Centre, ITeS@Fresher@150000.0@275000.0@0
+29@Media, Entertainment, Internet@Team Lead,Technical Lead@@@5
+30@Insurance@Team Lead,Technical Lead@@@5
+31@Retail, Wholesale@DBA@200000.0@300000.0@1
+32@IT-Software, Software Services@Data Analyst@500000.0@1500000.0@2
+33@IT-Software, Software Services@Technical Architect@@@12
+34@IT-Software, Software Services@DBA@@@3
+35@IT-Software, Software Services@Software Developer@@@2
+36@Recruitment, Staffing@Outside Technical Consultant@@@3
+37@KPO, Research, Analytics@Research Scientist@@@3
+38@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@175000.0@300000.0@0
+39@IT-Software, Software Services@Database Architect,Designer@@@6
+40@IT-Software, Software Services@Software Developer@@@7
+41@BPO, Call Centre, ITeS@Analytics Manager@@@4
+42@IT-Software, Software Services@Network Administrator@@@5
+43@BPO, Call Centre, ITeS@Associate,Senior Associate -(NonTechnical)@125000.0@275000.0@0
+44@IT-Software, Software Services@Software Developer@@@3
+45@Semiconductors, Electronics@DBA@@@4
+46@IT-Software, Software Services@Software Developer@500000.0@1500000.0@6
+47@IT-Hardware and Networking@Administration Services,Medical Facilities@@@3
+48@IT-Software, Software Services@Technical Architect@@@10
+49@Recruitment, Staffing@Fresher@200000.0@500000.0@0
+50@IT-Software, Software Services@Testing Engineer@@@3
+51@Automobile, Auto Anciliary, Auto Components@Sales Executive,Officer@150000.0@250000.0@1
+52@IT-Software, Software Services@DBA@@@4
+53@IT-Software, Software Services@DBA@@@10
+54@Banking, Financial Services, Broking@Financial Analyst@300000.0@400000.0@0
+55@Banking, Financial Services, Broking@Clinical Research Associate,Scientist@@@2
+56@Other@Fresher@150000.0@250000.0@0
+57@IT-Software, Software Services@Software Developer@@@7
+58@Recruitment, Staffing@Software Developer@@@8
+59@IT-Software, Software Services@Software Developer@@@9
+60@BPO, Call Centre, ITeS@Fresher@175000.0@275000.0@0
+61@Strategy, Management Consulting Firms@IT,Technical Content Developer@@@5
+62@Recruitment, Staffing@Fresher@200000.0@500000.0@0
+63@IT-Software, Software Services@Software Developer@@@2
+64@Strategy, Management Consulting Firms@Associate,Senior Associate -(NonTechnical)@@@6
+65@IT-Software, Software Services@Project Manager-IT,Software@@@8
+66@IT-Software, Software Services@Fresher@@@0
+67@IT-Software, Software Services@Software Developer@@@5
+68@Medical, Healthcare, Hospitals@Outside Consultant@175000.0@300000.0@2
+69@IT-Software, Software Services@Software Developer@@@2
+70@IT-Software, Software Services@Head,VP,GM-Technology (IT),CTO@@@10
+71@IT-Software, Software Services@DBA@200000.0@300000.0@3
+72@IT-Software, Software Services@DBA@@@5
+73@IT-Software, Software Services@Head,VP,GM-Technology(IT),CTO@@@20
+74@Recruitment, Staffing@Software Developer@@@5
+75@IT-Software, Software Services@Stenographer,Data Entry Operator@@@2
+76@IT-Software, Software Services@Technical Architect@@@9
+77@BPO, Call Centre, ITeS@Other@300000.0@425000.0@0
+78@BPO, Call Centre, ITeS@Associate,Senior Associate -(NonTechnical)@@@0
+79@Retail, Wholesale@Software Developer@@@5
+80@Recruitment, Staffing@Software Developer@@@7
+81@Recruitment, Staffing@Fresher@200000.0@500000.0@0
+82@BPO, Call Centre, ITeS@Fresher@150000.0@375000.0@0
+83@KPO, Research, Analytics@Data Analyst@500000.0@1300000.0@2
+84@BPO, Call Centre, ITeS@Financial Analyst@1200000.0@1400000.0@4
+85@BPO, Call Centre, ITeS@Software Developer@@@5
+86@BPO, Call Centre, ITES@Associate,Senior Associate -(NonTechnical)@225000.0@300000.0@0
+87@Banking, Financial Services, Broking@Operations Manager@300000.0@500000.0@2
+88@Strategy, Management Consulting Firms@Fresher@@@1
+89@IT-Software, Software Services@DBA@@@1
+90@IT-Software, Software Services@Functional Outside Consultant@@@5
+91@Banking, Financial Services, Broking@Analytics Manager@1600000.0@2000000.0@11
+92@KPO, Research, Analytics@Analytics Manager@@@8
+93@IT-Software, Software Services@Software Developer@@@1
+94@IT-Software, Software Services@Software Developer@@@1
+95@IT-Software, Software Services@Technical Support Engineer@@@3
+96@IT-Software, Software Services@Database Architect,Designer@@@2
+97@IT-Software, Software Services@Software Developer@@@7
+98@IT-Software, Software Services@Database Architect,Designer@1.0@1.0@1
+99@Internet, Ecommerce@Stenographer,Data Entry Operator@@@5
+100@BPO, Call Centre, ITeS@Fresher@150000.0@350000.0@0
+101@Recruitment, Staffing@Stenographer,Data Entry Operator@@@0
+102@BPO, Call Centre, ITeS@Other@300000.0@425000.0@0
+103@IT-Software, Software Services@Software Developer@1500000.0@3000000.0@6
+104@IT-Software, Software Services@Software Developer@@@0
+105@Recruitment, Staffing@System Administrator@@@1
+106@IT-Software, Software Services@Software Developer@@@3
+107@Medical, Healthcare, Hospitals@Associate,Senior Associate -(NonTechnical)@@@1
+108@IT-Software, Software Services@Technical Architect@1000000.0@2000000.0@9
+109@BPO, Call Centre, ITeS@Fresher@150000.0@325000.0@0
+110@IT-Software, Software Services@Team Lead,Technical Lead@@@5
+111@BPO, Call Centre, ITeS@Fresher@100000.0@125000.0@0
+112@IT-Software, Software Services@Other@100000.0@200000.0@1
+113@IT-Software, Software Services@Software Developer@@@8
+114@IT-Software, Software Services@Business Analyst@@@5
+115@IT-Software, Software Services@Trainer,Faculty@1200000.0@1500000.0@8
+116@IT-Software, Software Services@DBA@@@5
+117@Banking, Financial Services, Broking@Other@@@6
+118@IT-Software, Software Services@Software Developer@650000.0@1650000.0@2
+119@IT-Software, Software Services@DBA@@@5
+120@IT-Software, Software Services@Database Architect,Designer@@@3
+121@Advertising, PR, MR, Event Management@System Administrator@@@2
+122@Pharma, Biotech, Clinical Research@Regulatory Affairs Manager@500000.0@1000000.0@3
+123@IT-Software, Software Services@Software Developer@@@4
+124@IT-Software, Software Services@Software Developer@@@2
+125@Advertising, PR, MR, Event Management@Fresher@@@2
+126@BPO, Call Centre, ITeS@Stenographer,Data Entry Operator@@@0
+127@Telcom, ISP@Software Developer@@@5
+128@IT-Software, Software Services@Software Developer@@@5
+129@Media, Entertainment, Internet@Sales Executive,Officer@@@3
+130@IT-Software, Software Services@Software Developer@@@6
+131@IT-Software, Software Services@DBA@@@3
+132@Banking, Financial Services, Broking@Data Analyst@1300000.0@1900000.0@5
+133@BPO, Call Centre, ITeS@Fresher@275000.0@425000.0@0
+134@IT-Software, Software Services@Database Architect,Designer@@@2
+135@Banking, Financial Services, Broking@Data Analyst@@@6
+136@Food Processing@Software Developer@@@8
+137@IT-Software, Software Services@Software Developer@@@2
+138@IT-Software, Software Services@DBA@@@3
+139@IT-Software, Software Services@Software Developer@@@1
+140@Recruitment, Staffing@Stenographer,Data Entry Operator@@@1
+141@IT-Software, Software Services@Software Developer@450000.0@950000.0@4
+142@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@2
+143@Medical, Healthcare, Hospitals@Software Developer@@@4
+144@IT-Hardware and Networking@IT,Networking-Manager@300000.0@450000.0@5
+145@IT-Software, Software Services@Team Lead,Technical Lead@@@8
+146@Recruitment, Staffing@Fresher@200000.0@500000.0@0
+147@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@150000.0@225000.0@0
+148@Medical, Healthcare, Hospitals@Outside Consultant@@@2
+149@IT-Software, Software Services@DBA@@@5
+150@Semiconductors, Electronics@Data Analyst@@@2
+151@IT-Software, Software Services@Team Lead,Technical Lead@@@5
+152@IT-Software, Software Services@Database Architect,Designer@@@1
+153@IT-Software, Software Services@Software Developer@@@1
+154@BPO, Call Centre, ITeS@Fresher@175000.0@375000.0@0
+155@Recruitment, Staffing@Product Development Manager@@@7
+156@Banking, Financial Services, Broking@Business Analyst@@@2
+157@BPO, Call Centre, ITeS@Fresher@175000.0@250000.0@0
+158@IT-Software, Software Services@Associate,Senior Associate -(Technical)@@@1
+159@Fresher, Trainee, Entry Level@Fresher@100000.0@350000.0@0
+160@IT-Software, Software Services@Business,EDP Analyst@@@3
+161@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@3
+162@IT-Software, Software Services@DBA@@@5
+163@IT-Software, Software Services@Project Manager-IT,Software@@@10
+164@Other@Other@1000000.0@2000000.0@5
+165@IT-Software, Software Services@Analytics Manager@@@10
+166@IT-Software, Software Services@Technical Architect@@@10
+167@IT-Software, Software Services@Software Developer@@@3
+168@IT-Software, Software Services@System Administrator@@@3
+169@IT-Software, Software Services@Software Developer@@@1
+170@IT-Software, Software Services@Fresher@@@0
+171@IT-Software, Software Services@Team Lead,Technical Lead@@@2
+172@IT-Software, Software Services@Software Developer@@@4
+173@IT-Software, Software Services@Team Lead,Technical Lead@@@5
+174@Shipping, Marine@Data Analyst@@@2
+175@IT-Software, Software Services@DBA@@@5
+176@IT-Software, Software Services@System Administrator@@@4
+177@IT-Software, Software Services@Software Developer@@@3
+178@IT-Software, Software Services@Data Analyst@2000000.0@2500000.0@5
+179@Banking, Financial Services, Broking@Analytics Manager@@@8
+180@IT-Software, Software Services@Team Lead,Technical Lead@@@6
+181@IT-Software, Software Services@Quality Assurance,Quality Control Executive@@@3
+182@IT-Software, Software Services@Trainee@750000.0@900000.0@0
+183@IT-Software, Software Services@Software Developer@1500000.0@3000000.0@7
+184@Telcom, ISP@Other@@@2
+185@IT-Software, Software Services@Software Developer@@@5
+186@IT-Software, Software Services@Stenographer,Data Entry Operator@@@1
+187@IT-Software, Software Services@Software Developer@@@2
+188@BPO, Call Centre, ITeS@Associate,Senior Associate -(Technical)@@@1
+189@IT-Software, Software Services@Software Developer@@@2
+190@IT-Software, Software Services@Software Developer@@@2
+191@IT-Software, Software Services@Software Developer@@@3
+192@IT-Software, Software Services@Datawarehousing Technician@@@1
+193@Advertising, PR, MR, Event Management@Software Developer@@@3
+194@IT-Software, Software Services@Technical Architect@@@3
+195@IT-Software, Software Services@System Analyst@@@5
+196@IT-Software, Software Services@Software Developer@@@5
+197@IT-Software, Software Services@Software Developer@@@5
+198@IT-Software, Software Services@Data Analyst@@@4
+199@Recruitment, Staffing@Database Architect,Designer@@@8
+200@IT-Software, Software Services@Software Developer@@@6
+201@Banking, Financial Services, Broking@Database Architect,Designer@@@1
+202@IT-Software, Software Services@System Security@@@4
+203@Insurance@Stenographer,Data Entry Operator@100000.0@125000.0@1
+204@Education, Teaching, Training@Associate,Senior Associate -(NonTechnical)@@@2
+205@Other@Other@@@6
+206@IT-Software, Software Services@Database Architect,Designer@@@5
+207@IT-Software, Software Services@Technical Architect@@@15
+208@BPO, Call Centre, ITeS@Fresher@150000.0@275000.0@0
+209@Travel, Hotels, Restaurants, Airlines, Railways@Fresher@@@0
+210@Banking, Financial Services, Broking@Head,VP,GM-Technology(IT),CTO@@@2
+211@Recruitment, Staffing@Head,VP,GM,National Manager -Sales@@@15
+212@Semiconductors, Electronics@Assistant Manager,Manager-(NonTechnical)@@@2
+213@IT-Software, Software Services@Stenographer,Data Entry Operator@100000.0@250000.0@0
+214@BPO, Call Centre, ITeS@Assistant Manager,Manager-(NonTechnical)@@@4
+215@Banking, Financial Services, Broking@Software Developer@@@5
+216@Recruitment, Staffing@Fresher@200000.0@500000.0@0
+217@IT-Software, Software Services@Software Developer@300000.0@800000.0@2
+218@IT-Software, Software Services@Software Developer@@@5
+219@Media, Entertainment, Internet@Software Developer@@@5
+220@Banking, Financial Services, Broking@Sales Executive,Officer@@@4
+221@Banking, Financial Services, Broking@Sales Executive,Officer@125000.0@225000.0@0
+222@Automobile, Auto Anciliary, Auto Components@Program Manager@@@3
+223@Telcom, ISP@Team Lead,Technical Lead@@@12
+224@IT-Software, Software Services@Training Manager@@@4
+225@IT-Software, Software Services@Software Developer@@@7
+226@Other@Other@200000.0@300000.0@0
+227@IT-Software, Software Services@Data Analyst@@@2
+228@Banking, Financial Services, Broking@Clinical Research Associate,Scientist@@@10
+229@Fresher, Trainee, Entry Level@Stenographer,Data Entry Operator@225000.0@725000.0@0
+230@BPO, Call Centre, ITeS@Fresher@125000.0@600000.0@0
+231@FMCG, Foods, Beverage@Associate,Senior Associate -(NonTechnical)@@@2
+232@Advertising, PR, MR, Event Management@Product Manager@@@0
+233@Recruitment, Staffing@Fresher@200000.0@500000.0@0
+234@Education, Teaching, Training@Assistant Professor@@@3
+235@IT-Software, Software Services@Software Developer@700000.0@1600000.0@5
+236@KPO, Research, Analytics@Database Architect,Designer@@@2
+237@BPO, Call Centre, ITeS@Software Developer@@@3
+238@Education, Teaching, Training@Business Analyst@@@5
+239@IT-Software, Software Services@Software Developer@@@4
+240@IT-Software, Software Services@Solution Architect, Enterprise Architect@@@6
+241@IT-Software, Software Services@Software Developer@@@5
+242@IT-Software, Software Services@Technical Architect@@@10
+243@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@125000.0@400000.0@0
+244@IT-Software, Software Services@Outside Technical Consultant@@@4
+245@IT-Software, Software Services@Head,VP,GM,National Manager -Sales@@@2
+246@Banking, Financial Services, Broking@Software Developer@@@4
+247@IT-Software, Software Services@Team Lead,Technical Lead@@@7
+248@IT-Software, Software Services@DBA@@@8
+249@IT-Software, Software Services@Other@125000.0@175000.0@0
+250@IT-Software, Software Services@Team Lead,Technical Lead@@@6
+251@IT-Software, Software Services@Software Developer@@@2
+252@IT-Software, Software Services@Software Developer@@@5
+253@Textiles, Garments, Accessories@Software Developer@@@7
+254@Textiles, Garments, Accessories@DBA@@@3
+255@IT-Software, Software Services@Software Developer@@@1
+256@Recruitment, Staffing@DBA@@@7
+257@Education, Teaching, Training@Database Architect,Designer@@@8
+258@Medical, Healthcare, Hospitals@System Administrator@@@5
+259@IT-Software, Software Services@DBA@@@5
+260@KPO, Research, Analytics@Data Analyst@@@5
+261@IT-Software, Software Services@Software Developer@@@2
+262@IT-Software, Software Services@Software Developer@@@7
+263@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@2
+264@IT-Software, Software Services@Testing Engineer@@@2
+265@BPO, Call Centre, ITES@Business Analyst@300000.0@700000.0@3
+266@Banking, Financial Services, Broking@Bio-Statistician@@@3
+267@IT-Software, Software Services@Fresher@@@5
+268@IT-Software, Software Services@Team Lead,Technical Lead@@@2
+269@Recruitment, Staffing@Team Lead,Technical Lead@@@2
+270@IT-Software, Software Services@Software Developer@@@4
+271@Recruitment, Staffing@Associate,Senior Associate -(NonTechnical)@@@1
+272@Internet, Ecommerce@Team Lead,Technical Lead@@@8
+273@IT-Software, Software Services@Software Developer@600000.0@1500000.0@4
+274@IT-Software, Software Services@Team Lead,Technical Lead@@@5
+275@Pharma, Biotech, Clinical Research@Clinical Research Manager@1400000.0@1500000.0@5
+276@IT-Software, Software Services@Team Lead,Technical Lead@@@8
+277@IT-Software, Software Services@Software Developer@@@4
+278@IT-Software, Software Services@Database Architect,Designer@@@5
+279@Internet, Ecommerce@Manager-Market Research, Consumer Insights, Industry Analysis@@@2
+280@Recruitment, Staffing@Stenographer,Data Entry Operator@@@1
+281@Medical, Healthcare, Hospitals@Software Developer@@@10
+282@Banking, Financial Services, Broking@Head,VP,GM - Analytics and BI@1300000.0@2000000.0@5
+283@Courier, Transportation, Freight, Warehousing@Other@175000.0@225000.0@1
+284@Media, Entertainment, Internet@System Administrator@@@2
+285@IT-Software, Software Services@Software Developer@@@6
+286@IT-Software, Software Services@Team Lead,Technical Lead@@@8
+287@IT-Software, Software Services@Software Developer@@@2
+288@Telcom, ISP@Other@50000.0@150000.0@1
+289@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@4
+290@IT-Software, Software Services@Software Developer@@@3
+291@Fresher, Trainee, Entry Level@Stenographer,Data Entry Operator@125000.0@325000.0@0
+292@IT-Software, Software Services@Software Developer@200000.0@300000.0@0
+293@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@2
+294@IT-Software, Software Services@Database Architect,Designer@@@2
+295@IT-Software, Software Services@Network Administrator@@@6
+296@IT-Software, Software Services@DBA@@@6
+297@Recruitment, Staffing@Software Developer@@@4
+298@IT-Software, Software Services@Operations Manager@@@6
+299@IT-Software, Software Services@Other@@@2
+300@Telcom, ISP@Other@@@5
+301@Banking, Financial Services, Broking@Associate,Senior Associate-(NonTechnical)@@@1
+302@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@175000.0@325000.0@0
+303@IT-Software, Software Services@Team Lead,Technical Lead@1200000.0@2200000.0@6
+304@Media, Entertainment, Internet@Pharmacist,Chemist,Bio Chemist@@@1
+305@IT-Software, Software Services@Software Developer@@@3
+306@IT-Software, Software Services@Data Analyst@@@8
+307@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@1
+308@IT-Software, Software Services@Software Developer@@@5
+309@BPO, Call Centre, ITeS@HR Manager@250000.0@500000.0@0
+310@Recruitment, Staffing@Technical Architect@@@0
+311@Export, Import@Stenographer,Data Entry Operator@100000.0@250000.0@2
+312@IT-Software, Software Services@Software Developer@@@3
+313@Medical, Healthcare, Hospitals@Clinical Research Associate,Scientist@@@0
+314@IT-Software, Software Services@Software Developer@@@5
+315@IT-Software, Software Services@Software Developer@100000.0@550000.0@1
+316@BPO, Call Centre, ITeS@Associate,Senior Associate -(NonTechnical)@90000.0@150000.0@0
+317@IT-Software, Software Services@Software Developer@@@2
+318@IT-Software, Software Services@Data Analyst@@@2
+319@Banking, Financial Services, Broking@Software Developer@@@6
+320@BPO, Call Centre, ITeS@Fresher@175000.0@375000.0@0
+321@IT-Software, Software Services@Team Lead,Technical Lead@@@3
+322@IT-Software, Software Services@Sales Executive,Officer@@@5
+323@Pharma, Biotech, Clinical Research@Data Analyst@@@5
+324@BPO, Call Centre, ITeS@Receptionist@300000.0@500000.0@0
+325@IT-Software, Software Services@Software Developer@400000.0@800000.0@1
+326@Banking, Financial Services, Broking@Business Analyst@@@1
+327@IT-Software, Software Services@Practice Head, Practice Manager@5000000.0@1.0@10
+328@Insurance@DBA@@@5
+329@Publishing@Business Analyst@@@3
+330@IT-Software, Software Services@Other@@@2
+331@IT-Software, Software Services@DBA@@@3
+332@Construction, Engineering, Cement, Metals@Service,Maintenance Engineer@@@1
+333@IT-Software, Software Services@DBA@475000.0@975000.0@2
+334@BPO, Call Centre, ITeS@HR Manager@250000.0@500000.0@0
+335@Media, Entertainment, Internet@Software Developer@@@2
+336@IT-Software, Software Services@DBA@@@12
+337@Telcom, ISP@Business,EDP Analyst@@@2
+338@Retail, Wholesale@Accounts Executive,Accountant@100000.0@200000.0@0
+339@Banking, Financial Services, Broking@Head,VP,GM - Analytics and BI@3750000.0@4500000.0@13
+340@BPO, Call Centre, ITeS@Fresher@200000.0@375000.0@0
+341@IT-Software, Software Services@Data Analyst@@@5
+342@IT-Software, Software Services@DBA@@@2
+343@Banking, Financial Services, Broking@Debt Analyst@200000.0@300000.0@1
+344@Pharma, Biotech, Clinical Research@Clinical Research Manager@500000.0@800000.0@1
+345@Telcom, ISP@Database Architect,Designer@@@6
+346@IT-Software, Software Services@Data Analyst@@@7
+347@IT-Software, Software Services@Software Developer@@@4
+348@IT-Software, Software Services@System Analyst@@@1
+349@IT-Software, Software Services@Software Developer@@@5
+350@IT-Software, Software Services@Software Developer@@@2
+351@IT-Software, Software Services@Software Developer@@@5
+352@IT-Software, Software Services@Software Developer@@@2
+353@IT-Software, Software Services@Database Architect,Designer@@@5
+354@Strategy, Management Consulting Firms@Software Developer@@@2
+355@IT-Software, Software Services@DBA@@@4
+356@Recruitment, Staffing@Software Developer@@@0
+357@IT-Software, Software Services@Head,VP,GM - Analytics and BI@@@12
+358@IT-Software, Software Services@Associate,Senior Associate -(Technical)@@@1
+359@Media, Entertainment, Internet@Other@@@2
+360@Recruitment, Staffing@Research Scientist@@@2
+361@BPO, Call Centre, ITeS@Fresher@175000.0@275000.0@0
+362@IT-Software, Software Services@Database Architect,Designer@@@4
+363@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@125000.0@250000.0@0
+364@IT-Software, Software Services@Business Analyst@@@2
+365@Education, Teaching, Training@DBA@@@5
+366@IT-Software, Software Services@Database Architect,Designer@@@4
+367@Travel, Hotels, Restaurants, Airlines, Railways@DBA@500000.0@1100000.0@4
+368@IT-Software, Software Services@Database Architect,Designer@@@3
+369@Internet, Ecommerce@Trainee@225000.0@400000.0@0
+370@IT-Software, Software Services@Database Architect,Designer@@@5
+371@IT-Software, Software Services@Software Developer@1000000.0@1300000.0@8
+372@IT-Software, Software Services@Technical Architect@@@3
+373@IT-Software, Software Services@Associate,Senior Associate -(Technical)@@@0
+374@FMCG, Foods, Beverage@Outside Consultant@200000.0@300000.0@0
+375@BPO, Call Centre, ITeS@Fresher@175000.0@300000.0@0
+376@IT-Software, Software Services@Testing Engineer@@@3
+377@IT-Software, Software Services@DBA@@@4
+378@IT-Software, Software Services@DBA@@@2
+379@Banking, Financial Services, Broking@Analytics Manager@@@4
+380@Media, Entertainment, Internet@Team Lead,Technical Lead@@@6
+381@IT-Software, Software Services@Software Developer@300000.0@800000.0@6
+382@IT-Software, Software Services@Software Developer@@@6
+383@Strategy, Management Consulting Firms@Stenographer,Data Entry Operator@@@0
+384@IT-Software, Software Services@Technical Architect@@@14
+385@IT-Software, Software Services@Data Analyst@@@3
+386@Other@Stenographer,Data Entry Operator@@@0
+387@IT-Software, Software Services@Stenographer,Data Entry Operator@@@0
+388@Oil and Gas, Energy, Power, Infrastructure@DBA@@@4
+389@Real Estate, Property@Clinical Research Associate,Scientist@@@3
+390@IT-Software, Software Services@DBA@@@1
+391@Banking, Financial Services, Broking@Outside Consultant@@@1
+392@IT-Software, Software Services@Software Developer@@@1
+393@IT-Software, Software Services@Software Developer@200000.0@600000.0@3
+394@IT-Hardware and Networking@Software Developer@@@8
+395@Strategy, Management Consulting Firms@Outside Consultant@@@3
+396@IT-Software, Software Services@Database Architect,Designer@@@1
+397@Chemicals, PetroChemical, Plastic, Rubber@Business Analyst@1000000.0@1200000.0@4
+398@IT-Software, Software Services@Network Administrator@@@7
+399@Recruitment, Staffing@Software Developer@@@2
+400@IT-Software, Software Services@Team Lead,Technical Lead@@@11
+401@IT-Software, Software Services@Team Lead,Technical Lead@@@5
+402@Internet, Ecommerce@Data Analyst@@@4
+403@BPO, Call Centre, ITeS@Fresher@125000.0@375000.0@0
+404@IT-Software, Software Services@Business Analyst@@@2
+405@KPO, Research, Analytics@Data Analyst@325000.0@550000.0@0
+406@Media, Entertainment, Internet@Database Architect,Designer@@@2
+407@IT-Software, Software Services@System Security@500000.0@650000.0@4
+408@IT-Software, Software Services@Software Developer@@@3
+409@Internet, Ecommerce@Data Analyst@800000.0@1400000.0@2
+410@Agriculture, Dairy@Other@125000.0@200000.0@1
+411@BPO, Call Centre, ITES@Quality Assurance,Quality Control Manager@500000.0@1100000.0@4
+412@IT-Software, Software Services@Data Analyst@@@4
+413@Shipping, Marine@Stenographer,Data Entry Operator@100000.0@125000.0@0
+414@Strategy, Management Consulting Firms@Business Analyst@@@0
+415@BPO, Call Centre, ITeS@Fresher@@@0
+416@BPO, Call Centre, ITeS@Software Developer@@@3
+417@Shipping, Marine@Analytics Manager@1800000.0@2500000.0@9
+418@Publishing@Fresher@@@0
+419@Banking, Financial Services, Broking@Associate,Senior Associate -(Technical)@@@3
+420@KPO, Research, Analytics@Data Analyst@@@1
+421@IT-Software, Software Services@Software Developer@500000.0@1200000.0@2
+422@IT-Software, Software Services@Software Developer@900000.0@1700000.0@5
+423@IT-Software, Software Services@System Administrator@@@5
+424@IT-Software, Software Services@Database Architect,Designer@@@7
+425@IT-Software, Software Services@Software Developer@@@7
+426@IT-Software, Software Services@System Administrator@@@5
+427@Banking, Financial Services, Broking@Sales Executive,Officer@@@3
+428@Retail, Wholesale@Team Lead,Technical Lead@@@6
+429@BPO, Call Centre, ITeS@Fresher@175000.0@375000.0@0
+430@Banking, Financial Services, Broking@Software Developer@@@2
+431@Accounting, Finance@Accounts Executive,Accountant@@@0
+432@Semiconductors, Electronics@Team Lead,Technical Lead@@@12
+433@IT-Software, Software Services@Software Developer@400000.0@900000.0@4
+434@Real Estate, Property@Trainee@150000.0@350000.0@1
+435@Telcom, ISP@System Analyst@@@2
+436@IT-Software, Software Services@Software Developer@200000.0@400000.0@0
+437@Pharma, Biotech, Clinical Research@Clinical Research Associate,Scientist@@@2
+438@Other@Data Analyst@100000.0@250000.0@1
+439@IT-Software, Software Services@Team Lead,Technical Lead@@@10
+440@IT-Software, Software Services@Program Manager@@@6
+441@IT-Software, Software Services@Datawarehousing Technician@1000000.0@1600000.0@6
+442@IT-Software, Software Services@Software Developer@@@5
+443@IT-Software, Software Services@Software Developer@@@5
+444@BPO, Call Centre, ITeS@Team Leader -(Technical)@200000.0@325000.0@0
+445@IT-Software, Software Services@DBA@@@8
+446@Insurance@Associate,Senior Associate -(Technical)@@@2
+447@IT-Software, Software Services@Software Developer@@@2
+448@IT-Software, Software Services@Software Developer@@@5
+449@IT-Software, Software Services@Team Lead,Technical Lead@1000000.0@2000000.0@10
+450@Accounting, Finance@Stenographer,Data Entry Operator@100000.0@200000.0@0
+451@IT-Software, Software Services@Software Developer@900000.0@1900000.0@4
+452@IT-Software, Software Services@Software Developer@@@4
+453@IT-Software, Software Services@Technical Architect@@@5
+454@IT-Software, Software Services@Data Analyst@@@2
+455@IT-Software, Software Services@Software Developer@1000000.0@2000000.0@5
+456@Recruitment, Staffing@Stenographer,Data Entry Operator@@@0
+457@BPO, Call Centre, ITeS@Associate,Senior Associate -(NonTechnical)@@@1
+458@IT-Software, Software Services@Software Developer@@@1
+459@IT-Software, Software Services@Analytics Manager@@@4
+460@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@200000.0@350000.0@0
+461@IT-Software, Software Services@Network Administrator@@@0
+462@Recruitment, Staffing@Fresher@@@1
+463@IT-Software, Software Services@Database Architect,Designer@@@4
+464@BPO, Call Centre, ITeS@Quality Assurance,Quality Control Executive@50000.0@300000.0@0
+465@Strategy, Management Consulting Firms@Associate,Senior Associate -(NonTechnical)@@@3
+466@IT-Software, Software Services@Software Developer@700000.0@1700000.0@3
+467@IT-Software, Software Services@Software Developer@@@2
+468@Media, Entertainment, Internet@Head,VP,GM-Technology(IT),CTO@@@10
+469@IT-Software, Software Services@Software Developer@1000000.0@2000000.0@4
+470@IT-Software, Software Services@Software Developer@@@6
+471@IT-Software, Software Services@Data Analyst@@@6
+472@KPO, Research, Analytics@Data Analyst@50000.0@300000.0@0
+473@IT-Software, Software Services@Software Developer@@@2
+474@KPO, Research, Analytics@Trainee@225000.0@375000.0@0
+475@Recruitment, Staffing@Administration Services,Medical Facilities@@@2
+476@IT-Software, Software Services@DBA@@@5
+477@BPO, Call Centre, ITeS@Fresher@125000.0@325000.0@0
+478@Banking, Financial Services, Broking@Team Lead,Technical Lead@@@5
+479@Internet, Ecommerce@Head,VP,GM-Marketing@2000000.0@3000000.0@7
+480@IT-Software, Software Services@Database Architect,Designer@@@2
+481@Recruitment, Staffing@Fresher@200000.0@500000.0@0
+482@Other@Other@@@5
+483@Industrial Products, Heavy Machinery@Accounts Executive,Accountant@@@0
+484@BPO, Call Centre, ITeS@Fresher@150000.0@375000.0@0
+485@KPO, Research, Analytics@Data Analyst@700000.0@1000000.0@6
+486@Banking, Financial Services, Broking@Finance Executive@@@0
+487@KPO, Research, Analytics@Data Analyst@@@6
+488@KPO, Research, Analytics@Other@@@3
+489@IT-Software, Software Services@Team Lead,Technical Lead@@@8
+490@BPO, Call Centre, ITeS@Fresher@275000.0@375000.0@0
+491@IT-Software, Software Services@Data Analyst@@@0
+492@Banking, Financial Services, Broking@Financial Analyst@300000.0@400000.0@0
+493@IT-Software, Software Services@Database Architect,Designer@@@6
+494@BPO, Call Centre, ITeS@Fresher@150000.0@325000.0@0
+495@Medical, Healthcare, Hospitals@Software Developer@@@1
+496@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@15000.0@15000.0@0
+497@IT-Software, Software Services@Software Developer@700000.0@1700000.0@5
+498@IT-Software, Software Services@Data Analyst@@@1
+499@IT-Software, Software Services@Head,VP,GM-Technology(IT),CTO@2500000.0@3500000.0@7
+500@IT-Software, Software Services@Project Manager-IT,Software@@@10
+501@Medical, Healthcare, Hospitals@Business Analyst@@@2
+502@IT-Software, Software Services@Financial Analyst@@@2
+503@Recruitment, Staffing@Associate,Senior Associate -(NonTechnical)@@@0
+504@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@4
+505@IT-Software, Software Services@Outside Consultant@@@5
+506@IT-Software, Software Services@Audit Manager@@@2
+507@Recruitment, Staffing@DBA@@@5
+508@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@175000.0@450000.0@0
+509@IT-Software, Software Services@Software Developer@@@10
+510@IT-Software, Software Services@Outside Consultant@@@12
+511@IT-Software, Software Services@Team Lead,Technical Lead@@@3
+512@KPO, Research, Analytics@Data Analyst@@@5
+513@IT-Software, Software Services@Software Developer@@@2
+514@Recruitment, Staffing@Team Lead,Technical Lead@@@5
+515@KPO, Research, Analytics@Team Lead,Technical Lead@600000.0@1000000.0@5
+516@IT-Software, Software Services@Software Developer@@@3
+517@IT-Software, Software Services@Software Developer@@@6
+518@IT-Software, Software Services@CEO,MD,Director@@@11
+519@Recruitment, Staffing@System Administrator@@@4
+520@Strategy, Management Consulting Firms@Fresher@@@0
+521@IT-Software, Software Services@Database Architect,Designer@@@5
+522@Oil and Gas, Energy, Power, Infrastructure@Software Developer@@@2
+523@Banking, Financial Services, Broking@Head,VP,GM-Technology(IT),CTO@@@10
+524@IT-Software, Software Services@Database Architect,Designer@@@4
+525@IT-Software, Software Services@Data Analyst@@@3
+526@Automobile, Auto Anciliary, Auto Components@System Security@@@1
+527@IT-Software, Software Services@Bio-Statistician@@@2
+528@IT-Software, Software Services@DBA@@@6
+529@Accounting, Finance@Accounts Executive,Accountant@200000.0@300000.0@1
+530@Industrial Products, Heavy Machinery@Stenographer,Data Entry Operator@@@0
+531@IT-Software, Software Services@Testing Engineer@@@1
+532@IT-Software, Software Services@Manager - Market Research, Consumer Insights, Industry Analysis@@@4
+533@Other@Other@@@5
+534@IT-Software, Software Services@DBA@@@8
+535@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@2
+536@BPO, Call Centre, ITeS@Fresher@100000.0@300000.0@0
+537@IT-Software, Software Services@Software Developer@@@3
+538@Pharma, Biotech, Clinical Research@Other@@@2
+539@Accounting, Finance@Team Lead,Technical Lead@@@10
+540@IT-Software, Software Services@Database Architect,Designer@@@12
+541@BPO, Call Centre, ITeS@Quality Assurance,Quality Control Executive@50000.0@300000.0@0
+542@BPO, Call Centre, ITeS@Fresher@175000.0@275000.0@0
+543@IT-Software, Software Services@System Analyst@1200000.0@1600000.0@4
+544@Chemicals, PetroChemical, Plastic, Rubber@Database Architect,Designer@@@2
+545@BPO, Call Centre, ITeS@Fresher@175000.0@325000.0@0
+546@Automobile, Auto Anciliary, Auto Components@Software Developer@@@3
+547@BPO, Call Centre, ITeS@HR Manager@250000.0@500000.0@0
+548@IT-Software, Software Services@Software Developer@@@5
+549@IT-Software, Software Services@Software Developer@@@4
+550@Media, Entertainment, Internet@Stenographer,Data Entry Operator@@@2
+551@IT-Software, Software Services@Team Lead,Technical Lead@@@0
+552@IT-Software, Software Services@Software Developer@@@4
+553@BPO, Call Centre, ITeS@Service Delivery Leader@1200000.0@2200000.0@7
+554@Fresher, Trainee, Entry Level@Trainee@300000.0@500000.0@0
+555@Advertising, PR, MR, Event Management@Fresher@500000.0@700000.0@0
+556@Education, Teaching, Training@Trainer@@@1
+557@IT-Software, Software Services@Outside Consultant@@@6
+558@BPO, Call Centre, ITeS@Software Developer@400000.0@800000.0@3
+559@Other@Other@@@0
+560@Travel, Hotels, Restaurants, Airlines, Railways@Stenographer,Data Entry Operator@150000.0@175000.0@1
+561@Pharma, Biotech, Clinical Research@Data Analyst@@@6
+562@Recruitment, Staffing@Software Developer@@@3
+563@IT-Software, Software Services@Database Architect,Designer@@@1
+564@IT-Software, Software Services@Software Developer@@@2
+565@Recruitment, Staffing@Assistant Manager,Manager-(NonTechnical)@@@6
+566@BPO, Call Centre, ITeS@Associate,Senior Associate -(NonTechnical)@175000.0@225000.0@0
+567@IT-Software, Software Services@Head,VP,GM - Analytics and BI@3000000.0@4500000.0@8
+568@IT-Software, Software Services@Team Lead,Technical Lead@@@4
+569@Medical, Healthcare, Hospitals@Clinical Research Manager@@@5
+570@IT-Software, Software Services@System Security@@@5
+571@Pharma, Biotech, Clinical Research@Data Analyst@500000.0@900000.0@5
+572@BPO, Call Centre, ITeS@HR Manager@250000.0@500000.0@0
+573@IT-Software, Software Services@Software Developer@@@3
+574@IT-Software, Software Services@Software Developer@@@4
+575@Telcom, ISP@Database Architect,Designer@@@15
+576@IT-Software, Software Services@DBA@@@6
+577@Medical, Healthcare, Hospitals@Software Developer@@@5
+578@IT-Software, Software Services@Software Developer@@@2
+579@IT-Software, Software Services@Technical, Process Trainer@300000.0@300000.0@0
+580@Recruitment, Staffing@Stenographer,Data Entry Operator@@@0
+581@IT-Software, Software Services@Team Lead,Technical Lead@@@4
+582@IT-Software, Software Services@Other@300000.0@600000.0@2
+583@IT-Software, Software Services@Project Manager-IT,Software@@@6
+584@IT-Software, Software Services@Technical Architect@@@8
+585@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@125000.0@325000.0@0
+586@IT-Software, Software Services@Team Lead,Technical Lead@@@4
+587@IT-Software, Software Services@DBA@@@3
+588@Banking, Financial Services, Broking@Software Developer@@@4
+589@KPO, Research, Analytics@Other@800000.0@1500000.0@2
+590@Banking, Financial Services, Broking@Team Leader -(Technical)@@@6
+591@Banking, Financial Services, Broking@System Administrator@@@5
+592@IT-Software, Software Services@Software Developer@@@5
+593@IT-Software, Software Services@Software Developer@1500000.0@2500000.0@5
+594@Telcom, ISP@Software Developer@@@4
+595@BPO, Call Centre, ITeS@Fresher@@@0
+596@BPO, Call Centre, ITeS@HR Manager@250000.0@500000.0@0
+597@BPO, Call Centre, ITeS@Fresher@125000.0@350000.0@0
+598@BPO, Call Centre, ITeS@HR Manager@250000.0@500000.0@0
+599@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@175000.0@325000.0@0
+600@Banking, Financial Services, Broking@DBA@@@2
+601@IT-Software, Software Services@Software Developer@50000.0@150000.0@6
+602@IT-Software, Software Services@Software Developer@@@7
+603@IT-Software, Software Services@Software Developer@@@5
+604@Education, Teaching, Training@Lecturer,Professor@@@8
+605@IT-Hardware and Networking@Software Developer@@@4
+606@IT-Software, Software Services@Software Developer@@@3
+607@BPO, Call Centre, ITeS@Telecalling,Telemarketing Executive@15000.0@15000.0@0
+608@Strategy, Management Consulting Firms@Software Developer@@@2
+609@IT-Software, Software Services@Software Developer@500000.0@950000.0@5
+610@BPO, Call Centre, ITeS@Fresher@50000.0@300000.0@0
+611@Medical Devices, Equipments@Stenographer,Data Entry Operator@400000.0@550000.0@0
+612@IT-Software, Software Services@Software Developer@@@4
+613@Recruitment, Staffing@Administration Services,Medical Facilities@@@3
+614@IT-Software, Software Services@Software Developer@@@6
+615@IT-Software, Software Services@Clinical Research Associate,Scientist@@@1
+616@Accounting, Finance@CEO,MD,Director@@@3
+617@Telcom, ISP@Business Analyst@400000.0@700000.0@4
+618@BPO, Call Centre, ITeS@Fresher@175000.0@375000.0@0
+619@Pharma, Biotech, Clinical Research@Clinical Research Manager@@@4
+620@IT-Software, Software Services@Software Developer@@@7
+621@Banking, Financial Services, Broking@Software Developer@@@1
+622@BPO, Call Centre, ITeS@Fresher@175000.0@325000.0@0
+623@IT-Software, Software Services@DBA@@@2
+624@IT-Software, Software Services@Software Developer@@@3
+625@IT-Software, Software Services@Software Developer@@@3
+626@Banking, Financial Services, Broking@Finance Executive@@@0
+627@Industrial Products, Heavy Machinery@Stenographer,Data Entry Operator@@@1
+628@Banking, Financial Services, Broking@Analytics Manager@@@3
+629@Media, Entertainment, Internet@Software Developer@@@5
+630@IT-Software, Software Services@Software Developer@3500000.0@7000000.0@14
+631@IT-Software, Software Services@DBA@400000.0@650000.0@2
+632@BPO, Call Centre, ITeS@Stenographer,Data Entry Operator@@@1
+633@IT-Software, Software Services@Software Developer@@@1
+634@Recruitment, Staffing@Clinical Research Associate,Scientist@@@2
+635@IT-Software, Software Services@Outside Consultant@@@6
+636@IT-Software, Software Services@DBA@300000.0@800000.0@6
+637@Medical, Healthcare, Hospitals@Software Developer@@@7
+638@IT-Software, Software Services@Clinical Research Associate,Scientist@@@5
+639@KPO, Research, Analytics@Outside Technical Consultant@@@3
+640@IT-Software, Software Services@IT,Networking-Manager@@@8
+641@Automobile, Auto Anciliary, Auto Components@Software Developer@@@3
+642@Banking, Financial Services, Broking@Database Architect,Designer@@@8
+643@KPO, Research, Analytics@Assistant Manager,Manager-(Technical)@@@10
+644@Banking, Financial Services, Broking@Database Architect,Designer@@@10
+645@Strategy, Management Consulting Firms@Software Developer@@@0
+646@IT-Software, Software Services@Database Architect,Designer@@@3
+647@Construction, Engineering, Cement, Metals@Data Analyst@@@8
+648@IT-Software, Software Services@Data Analyst@@@1
+649@BPO, Call Centre, ITeS@Fresher@175000.0@375000.0@0
+650@IT-Software, Software Services@Team Lead,Technical Lead@800000.0@1800000.0@9
+651@IT-Software, Software Services@Associate,Senior Associate -(NonTechnical)@@@2
+652@IT-Software, Software Services@Data Analyst@@@7
+653@IT-Software, Software Services@Software Developer@@@8
+654@BPO, Call Centre, ITeS@Sales Executive,Officer@125000.0@350000.0@0
+655@Strategy, Management Consulting Firms@Fresher@@@2
+656@Strategy, Management Consulting Firms@Software Developer@@@3
+657@IT-Software, Software Services@Software Developer@@@2
+658@IT-Software, Software Services@Other@@@10
+659@BPO, Call Centre, ITeS@HR Manager@250000.0@500000.0@0
+660@IT-Software, Software Services@Software Developer@300000.0@800000.0@4
+661@IT-Software, Software Services@Associate,Senior Associate -(Technical)@@@2
+662@IT-Software, Software Services@Software Developer@@@3
+663@IT-Software, Software Services@Team Lead,Technical Lead@@@8
+664@Banking, Financial Services, Broking@Finance Executive@@@0
+665@Recruitment, Staffing@System Analyst@@@3
+666@IT-Software, Software Services@Data Analyst@@@2
+667@Pharma, Biotech, Clinical Research@Software Developer@@@7
+668@Recruitment, Staffing@Associate,Senior Associate -(NonTechnical)@@@3
+669@IT-Software, Software Services@Software Developer@500000.0@1000000.0@4
+670@Shipping, Marine@4th Engineer@50000.0@200000.0@0
+671@Courier, Transportation, Freight, Warehousing@Financial Analyst@@@5
+672@BPO, Call Centre, ITeS@Stenographer,Data Entry Operator@@@0
+673@IT-Software, Software Services@DBA@@@10
+674@IT-Software, Software Services@Software Developer@@@9
+675@IT-Software, Software Services@Data Analyst@100000.0@200000.0@1
+676@IT-Software, Software Services@Research Scientist@@@2
+677@BPO, Call Centre, ITeS@Associate,Senior Associate -(NonTechnical)@100000.0@350000.0@1
+678@IT-Software, Software Services@Software Developer@500000.0@1500000.0@5
+679@IT-Software, Software Services@Software Developer@@@3
+680@Banking, Financial Services, Broking@Team Lead,Technical Lead@@@4
+681@BPO, Call Centre, ITeS@HR Manager@250000.0@500000.0@0
+682@IT-Software, Software Services@Software Developer@@@10
+683@IT-Software, Software Services@Database Architect,Designer@@@2
+684@IT-Software, Software Services@Software Developer@@@4
+685@IT-Software, Software Services@Team Lead,Technical Lead@@@8
+686@KPO, Research, Analytics@Data Analyst@@@7
+687@IT-Software, Software Services@DBA@@@2
+688@IT-Software, Software Services@Fresher@200000.0@500000.0@0
+689@IT-Software, Software Services@Data Analyst@@@3
+690@Other@Other@@@4
+691@IT-Software, Software Services@Outside Consultant@@@5
+692@BPO, Call Centre, ITeS@Software Developer@300000.0@600000.0@2
+693@IT-Software, Software Services@Team Lead,Technical Lead@@@8
+694@IT-Software, Software Services@Software Developer@@@1
+695@IT-Software, Software Services@Datawarehousing Technician@@@2
+696@Banking, Financial Services, Broking@Data Analyst@@@4
+697@IT-Software, Software Services@Research Scientist@@@2
+698@Recruitment, Staffing@Executive, Sr Executive - Administration@@@2
